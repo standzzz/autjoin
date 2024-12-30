@@ -1,1 +1,5 @@
-New content for bigman.lua
+local autojoins = {
+
+}
+
+return
