@@ -1,8 +1,5 @@
-local autojoinslocal table = {
-= {
-
-}
-    [exampleUser] = { [121323] = 121323, [121212] = 121212 },
+local autojoins = {
+    ["exampleUser"] = { ["id"] = 121323, ["channelid"] = 121212 },
 }
 
-return tablereturn autojoins
+return autojoins
