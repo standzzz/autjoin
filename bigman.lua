@@ -2,4 +2,4 @@ local autojoins = {
 
 }
 
-return
+return autojoins
