@@ -1,4 +1,8 @@
-local autojoinlocal autojoins = {
+local autojoinlocal autojoinslocal autojoins = {
+= {
     ["exampleUser"] = { ["id"] = 121323, ["channelid"] = 121212 },
 }
-return autojoins
+    [exampleUser] = { [121323] = 121323, [121212] = 121212 },
+}
+
+return autojoinsreturn autojoins
