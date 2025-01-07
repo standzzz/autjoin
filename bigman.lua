@@ -4,9 +4,9 @@ local autojoins = {
 ["CelebratedPinkie7720"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
 ["UsefulGinseng5232"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
 ["AgreeableMobster2007"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
-["GuiltyOverflight5038"] = { ["id"] = 7411906033, ["channelid"] = 121212 },
+["GuiltyOverflight5038"] = { ["id"] = 6184558885, ["channelid"] = 121212 },
 ["BountifulAnklet2586"] = { ["id"] = 135703, ["channelid"] = 121212 },
-["TestyBehold8307"] = { ["id"] = 7245551138, ["channelid"] = 121212 },
+["TestyBehold8307"] = { ["id"] = 6184558885, ["channelid"] = 121212 },
 }
 
 
