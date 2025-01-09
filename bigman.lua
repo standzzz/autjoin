@@ -1,17 +1,17 @@
 local autojoins = {
 
-    ["JumpySpat9611"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
-["CelebratedPinkie7720"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
-["UsefulGinseng5232"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
-["AgreeableMobster2007"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
+    ["JumpySpat9611"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
+["CelebratedPinkie7720"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
+["UsefulGinseng5232"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
+["AgreeableMobster2007"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
 ["GuiltyOverflight5038"] = { ["id"] = 7411906033, ["channelid"] = 121212 },
 ["BountifulAnklet2586"] = { ["id"] = 7411906033, ["channelid"] = 121212 },
 ["TestyBehold8307"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
 ["GorgeousLongboat5130"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
-["AptGallery4232"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
-["SlimAntler6601"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
-["SilentFlesh6432"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
-["ExemplaryTrooper1509"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
+["AptGallery4232"] = { ["id"] = 0, ["channelid"] = 121212 },
+["SlimAntler6601"] = { ["id"] = 0, ["channelid"] = 121212 },
+["SilentFlesh6432"] = { ["id"] = 0, ["channelid"] = 121212 },
+["ExemplaryTrooper1509"] = { ["id"] = 0, ["channelid"] = 121212 },
 }
 
 
