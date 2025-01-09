@@ -8,10 +8,10 @@ local autojoins = {
 ["BountifulAnklet2586"] = { ["id"] = 7411906033, ["channelid"] = 121212 },
 ["TestyBehold8307"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
 ["GorgeousLongboat5130"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
-["AptGallery4232"] = { ["id"] = 0, ["channelid"] = 121212 },
-["SlimAntler6601"] = { ["id"] = 0, ["channelid"] = 121212 },
-["SilentFlesh6432"] = { ["id"] = 0, ["channelid"] = 121212 },
-["ExemplaryTrooper1509"] = { ["id"] = 0, ["channelid"] = 121212 },
+["AptGallery4232"] = { ["id"] = 4331143961, ["channelid"] = 121212 },
+["SlimAntler6601"] = { ["id"] = 4331143961, ["channelid"] = 121212 },
+["SilentFlesh6432"] = { ["id"] = 4331143961, ["channelid"] = 121212 },
+["ExemplaryTrooper1509"] = { ["id"] = 4331143961, ["channelid"] = 121212 },
 }
 
 
