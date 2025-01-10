@@ -12,6 +12,8 @@ local autojoins = {
 ["SlimAntler6601"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
 ["SilentFlesh6432"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
 ["ExemplaryTrooper1509"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
+    ["SpottedCarp2702"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
+        ["RedAchievement6295"] = { ["id"] = 2381828282, ["channelid"] = 121212 },
 }
 
 
