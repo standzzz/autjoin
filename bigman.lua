@@ -19,10 +19,10 @@ local autojoins = {
 ["reignbot1534345"] = { ["id"] = 1321454129, ["channelid"] = 121212 },
     
 
-        ["reignbot23454356"] = { ["id"] = 7232915980, ["channelid"] = 121212 },
-     ["CalmGaffer8977"] = { ["id"] = 7232915980, ["channelid"] = 121212 },
-     ["AdorableGuide7807"] = { ["id"] = 7232915980, ["channelid"] = 121212 },
-     ["AnyLycra3536"] = { ["id"] = 7232915980, ["channelid"] = 121212 },
+        ["reignbot23454356"] = { ["id"] = 313064, ["channelid"] = 121212 },
+     ["CalmGaffer8977"] = { ["id"] = 313064, ["channelid"] = 121212 },
+     ["AdorableGuide7807"] = { ["id"] = 9132945, ["channelid"] = 121212 },
+     ["AnyLycra3536"] = { ["id"] = 9132945, ["channelid"] = 121212 },
 
      ["reignbot23487243"] = { ["id"] = 89592580, ["channelid"] = 121212 },
      ["ExcellentGarb855"] = { ["id"] = 89592580, ["channelid"] = 121212 },
