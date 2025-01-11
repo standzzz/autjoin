@@ -25,7 +25,7 @@ local autojoins = {
      ["AnyLycra3536"] = { ["id"] = 7232915980, ["channelid"] = 121212 },
 
      ["reignbot23487243"] = { ["id"] = 89592580, ["channelid"] = 121212 },
-     ["reignbot2134254"] = { ["id"] = 89592580, ["channelid"] = 121212 },
+     ["ExcellentGarb855"] = { ["id"] = 89592580, ["channelid"] = 121212 },
 
       ["Doggytosecret7635"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
      ["Prizes4You"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
