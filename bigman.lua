@@ -8,7 +8,7 @@ local autojoins = {
 ["BlankNoise8318"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
 ["OpulentFillet1130"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
 ["SlimAntler6601"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
- ["RedAchievement6295"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
+ ["BriefSheet9370"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
 
 
 ["TestyBehold8307"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
