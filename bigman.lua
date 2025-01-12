@@ -30,7 +30,7 @@ local autojoins = {
      ["ExcellentGarb855"] = { ["id"] = 89592580, ["channelid"] = 121212 },
 
       ["Doggytosecret7635"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
-     ["Prizes4You"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
+     ["Prizes4You"] = { ["id"] = 7028520353, ["channelid"] = 121212 },
 
  ["Skybyt8154"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
  ["Gloono7821"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
