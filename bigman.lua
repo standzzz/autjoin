@@ -37,6 +37,7 @@ local autojoins = {
  ["Flinkfut9921"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
  ["Voidsna2505"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
  ["Briks0517"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
+     ["Neontch6098"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
      
     
 }
