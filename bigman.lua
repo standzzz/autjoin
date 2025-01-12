@@ -24,7 +24,7 @@ local autojoins = {
      ["CalmGaffer8977"] = { ["id"] = 7783388620, ["channelid"] = 121212 },
      ["AdorableGuide7807"] = { ["id"] = 7783388620, ["channelid"] = 121212 },
 
-     ["AnyLycra3536"] = { ["id"] = 9132945, ["channelid"] = 121212 },
+     ["AnyLycra3536"] = { ["id"] = 1321454129, ["channelid"] = 121212 },
 
      ["reignbot23487243"] = { ["id"] = 89592580, ["channelid"] = 121212 },
      ["ExcellentGarb855"] = { ["id"] = 89592580, ["channelid"] = 121212 },
