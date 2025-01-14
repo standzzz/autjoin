@@ -61,7 +61,7 @@ local autojoins = {
 
     ["WanCappuccino5927"] = { ["id"] = 7851557069, ["channelid"] = 121212 },
 
-    ["UnusualBunkhouse7301"] = { ["id"] = 313064, ["channelid"] = 121212 },
+    ["UnusualBunkhouse7301"] = { ["id"] = 413309, ["channelid"] = 121212 },
     
 
     
