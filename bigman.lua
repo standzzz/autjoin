@@ -32,12 +32,12 @@ local autojoins = {
       ["Doggytosecret7635"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
      ["Prizes4You"] = { ["id"] = 7028520353, ["channelid"] = 121212 },
 
- ["Skybyt8154"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
- ["Gloono7821"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
- ["Flinkfut9921"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
+ ["Lunach2025"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
+ ["Lunas4470"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
+ ["Wobbleflinger9450"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
  ["Voidsna2505"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
- ["Briks0517"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
-     ["Neontch6098"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
+ ["Thisflux5177"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
+     ["Frozyo1597"] = { ["id"] = 2025365241, ["channelid"] = 121212 },
 
    ["SafeStandoff3345"] = { ["id"] = 6097030522, ["channelid"] = 121212 },
    ["SkinnyCutover3233"] = { ["id"] = 6097030522, ["channelid"] = 121212 },
