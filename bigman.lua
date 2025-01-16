@@ -85,6 +85,12 @@ local autojoins = {
     ["BeautifulGadget1511"] = { ["id"] = 482226602, ["channelid"] = 121212 },
 
     ["CrazyHeadlight7194"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
+
+    ["BrokenPassenger678"] = { ["id"] = 60925058, ["channelid"] = 121212 },
+    ["AdeptBark83"] = { ["id"] = 60925058, ["channelid"] = 121212 },
+
+    ["SubstantialProw8818"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
+    ["PlaintiveSteam204"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
     
 
     
