@@ -70,6 +70,17 @@ local autojoins = {
     ["BigheartedMight9697"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["AnyPrizefight3294"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["BowedArrogance4309"] = { ["id"] = 888008, ["channelid"] = 121212 },
+
+    ["RapidPodcast4735"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+    ["KnownLipid4260"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+
+    ["InsecureCivilian8325"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["UltimateOutlook1353"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["IroncladChurn7980"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["BeautifulGadget1511"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+
+    ["ShabbyPort9734"] = { ["id"] = 2948539, ["channelid"] = 121212 },
     
 
     
