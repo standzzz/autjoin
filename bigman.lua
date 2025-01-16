@@ -80,7 +80,7 @@ local autojoins = {
     ["IroncladChurn7980"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["BeautifulGadget1511"] = { ["id"] = 482226602, ["channelid"] = 121212 },
 
-    ["ShabbyPort9734"] = { ["id"] = 2948539, ["channelid"] = 121212 },
+    ["CrazyHeadlight7194"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
     
 
     
