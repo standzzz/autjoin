@@ -76,7 +76,7 @@ local autojoins = {
 
     ["InsecureCivilian8325"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
-    ["UltimateOutlook1353"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["GlassKielbasa4811"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["IroncladChurn7980"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["BeautifulGadget1511"] = { ["id"] = 482226602, ["channelid"] = 121212 },
 
