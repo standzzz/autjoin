@@ -9,6 +9,10 @@ local autojoins = {
 ["OpulentFillet1130"] = { ["id"] = 48065046, ["channelid"] = 121212 },
 ["SlimAntler6601"] = { ["id"] = 48065046, ["channelid"] = 121212 },
  ["BriefSheet9370"] = { ["id"] = 48065046, ["channelid"] = 121212 },
+    ["SmallKendo4368"] = { ["id"] = 48065046, ["channelid"] = 121212 },
+    ["JointUtility7681"] = { ["id"] = 48065046, ["channelid"] = 121212 },
+    ["DoubleCommuter6341"] = { ["id"] = 48065046, ["channelid"] = 121212 },
+    ["LoyalMusicmaking7623"] = { ["id"] = 48065046, ["channelid"] = 121212 },
 
 
 ["TestyBehold8307"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
