@@ -63,7 +63,7 @@ local autojoins = {
     ["DescriptiveSoul5464"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
     ["VillainousHaze2318"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
 
-    ["WanCappuccino5927"] = { ["id"] = 7851557069, ["channelid"] = 121212 },
+    ["WanCappuccino5927"] = { ["id"] = 7872269103, ["channelid"] = 121212 },
 
     ["UnusualBunkhouse7301"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["LongBuck6264"] = { ["id"] = 888008, ["channelid"] = 121212 },
