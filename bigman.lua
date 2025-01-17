@@ -39,8 +39,8 @@ local autojoins = {
 
      ["AnyLycra3536"] = { ["id"] = 1321454129, ["channelid"] = 121212 },
 
-     ["reignbot23487243"] = { ["id"] = 89592580, ["channelid"] = 121212 },
-     ["ExcellentGarb855"] = { ["id"] = 89592580, ["channelid"] = 121212 },
+     ["ggdahoodbot"] = { ["id"] = 89592580, ["channelid"] = 121212 },
+     ["reignwonagain"] = { ["id"] = 89592580, ["channelid"] = 121212 },
 
       ["Doggytosecret7635"] = { ["id"] = 2861390215, ["channelid"] = 121212 },
      ["Prizes4You"] = { ["id"] = 7028520353, ["channelid"] = 121212 },
@@ -113,8 +113,7 @@ local autojoins = {
 
  ["haveieverlost"] = { ["id"] = 2230361452, ["channelid"] = 121212 },
 
-     ["reignwonagain"] = { ["id"] = 2948539, ["channelid"] = 121212 },
-     ["ggdahoodbot"] = { ["id"] = 2948539, ["channelid"] = 121212 },
+
     ["reignownsyou"] = { ["id"] = 2948539, ["channelid"] = 121212 },
     
      
