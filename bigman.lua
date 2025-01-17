@@ -64,10 +64,10 @@ local autojoins = {
     
     ["LegalAbbey7534"] = { ["id"] = 2948539, ["channelid"] = 121212 },
 
-    ["DescriptiveSoul5464"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
-    ["VillainousHaze2318"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
+    ["AuraFarm12376"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
+    ["ekitten3734683"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
 
-    ["WanCappuccino5927"] = { ["id"] = 7872269103, ["channelid"] = 121212 },
+    ["RonaldoFanGirl23746"] = { ["id"] = 7872269103, ["channelid"] = 121212 },
 
     ["UnusualBunkhouse7301"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["LongBuck6264"] = { ["id"] = 888008, ["channelid"] = 121212 },
