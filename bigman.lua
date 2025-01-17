@@ -13,6 +13,9 @@ local autojoins = {
     ["JointUtility7681"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
     ["DoubleCommuter6341"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
     ["LoyalMusicmaking7623"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
+    ["imspazzing23883"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
+    ["mrmakeithappenxd"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
+    ["trycatchmelosing"] = { ["id"] = 2477434873, ["channelid"] = 121212 },
 
 
 ["TestyBehold8307"] = { ["id"] = 7806083378, ["channelid"] = 121212 },
