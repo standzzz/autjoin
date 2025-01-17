@@ -95,8 +95,8 @@ local autojoins = {
     ["reignspam2823734673"] = { ["id"] = 94328598, ["channelid"] = 121212 },
     ["reignspam2387213789"] = { ["id"] = 94328598, ["channelid"] = 121212 },
 
-    ["reignspam21397219376"] = { ["id"] = 313064, ["channelid"] = 121212 },
-    ["reignspam272635645"] = { ["id"] = 313064, ["channelid"] = 121212 },
+    ["reignspam21397219376"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
+    ["reignspam272635645"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
     
      
     
