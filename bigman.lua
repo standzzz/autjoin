@@ -116,6 +116,8 @@ local autojoins = {
 
     ["reignownsyou"] = { ["id"] = 61900767, ["channelid"] = 121212 },
  ["eadiyawdfuauydf"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+
+ ["awdgauiytdfua6y86"] = { ["id"] = 3232893368, ["channelid"] = 121212 },
     
      
     
