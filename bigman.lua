@@ -81,10 +81,10 @@ local autojoins = {
     ["InsecureCivilian8325"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["GlassKielbasa4811"] = { ["id"] = 482226602, ["channelid"] = 121212 },
-    ["IroncladChurn7980"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["Replacement21378127"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["BeautifulGadget1511"] = { ["id"] = 482226602, ["channelid"] = 121212 },
 
-    ["CrazyHeadlight7194"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
+    ["Replacement781236"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
 
     ["BrokenPassenger678"] = { ["id"] = 60925058, ["channelid"] = 121212 },
     ["AdeptBark83"] = { ["id"] = 60925058, ["channelid"] = 121212 },
