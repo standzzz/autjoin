@@ -119,8 +119,8 @@ local autojoins = {
 
  ["awdgauiytdfua6y86"] = { ["id"] = 3232893368, ["channelid"] = 121212 },
 
- ["reignbot095u2058324"] = { ["id"] = 2948539, ["channelid"] = 121212 },
- ["reignbot04u2304"] = { ["id"] = 2948539, ["channelid"] = 121212 },
+ ["reignbot095u2058324"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
+ ["reignbot04u2304"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
     
      
     
