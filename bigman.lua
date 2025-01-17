@@ -111,8 +111,9 @@ local autojoins = {
     ["reignspam21397219376"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
     ["reignspam272635645"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
 
+ ["haveieverlost"] = { ["id"] = 2230361452, ["channelid"] = 121212 },
+
      ["reignwonagain"] = { ["id"] = 2948539, ["channelid"] = 121212 },
-    ["haveieverlost"] = { ["id"] = 2948539, ["channelid"] = 121212 },
      ["ggdahoodbot"] = { ["id"] = 2948539, ["channelid"] = 121212 },
     ["reignownsyou"] = { ["id"] = 2948539, ["channelid"] = 121212 },
     
