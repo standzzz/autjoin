@@ -86,7 +86,7 @@ local autojoins = {
 
     ["Replacement781236"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
 
-    ["BrokenPassenger678"] = { ["id"] = 60925058, ["channelid"] = 121212 },
+    ["ReignBot12361236"] = { ["id"] = 60925058, ["channelid"] = 121212 },
     ["AdeptBark83"] = { ["id"] = 60925058, ["channelid"] = 121212 },
 
     ["SubstantialProw8818"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
