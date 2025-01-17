@@ -114,8 +114,8 @@ local autojoins = {
  ["haveieverlost"] = { ["id"] = 2230361452, ["channelid"] = 121212 },
 
 
-    ["reignownsyou"] = { ["id"] = 61900767, ["channelid"] = 121212 },
- ["eadiyawdfuauydf"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+    ["banreplacement8327"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+ ["imsotechybro21"] = { ["id"] = 61900767, ["channelid"] = 121212 },
 
  ["awdgauiytdfua6y86"] = { ["id"] = 3232893368, ["channelid"] = 121212 },
 
