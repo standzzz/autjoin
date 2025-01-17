@@ -77,6 +77,7 @@ local autojoins = {
     ["ekitten3734683"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
 
     ["RonaldoFanGirl23746"] = { ["id"] = 7872269103, ["channelid"] = 121212 },
+    ["D1JBAG"] = { ["id"] = 7872269103, ["channelid"] = 121212 },
 
     ["UnusualBunkhouse7301"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["LongBuck6264"] = { ["id"] = 888008, ["channelid"] = 121212 },
@@ -86,6 +87,9 @@ local autojoins = {
 
     ["RapidPodcast4735"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["KnownLipid4260"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+    ["ILOVEMALESLOLXD"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+    ["reigndoesntlose"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+    ["reigndoesntlose2"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
 
     ["InsecureCivilian8325"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
