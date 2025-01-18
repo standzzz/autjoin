@@ -121,6 +121,9 @@ local autojoins = {
 
  ["reignbot095u2058324"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
  ["reignbot04u2304"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
+
+  ["BothArmchair8529"] = { ["id"] = 0, ["channelid"] = 121212 },
+ ["RealElite7100"] = { ["id"] = 0, ["channelid"] = 121212 },
     
      
     
