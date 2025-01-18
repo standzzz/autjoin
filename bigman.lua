@@ -115,7 +115,7 @@ local autojoins = {
 
 
     ["banreplacement8327"] = { ["id"] = 61900767, ["channelid"] = 121212 },
- ["imsotechybro21"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+ ["BothArmchair8529"] = { ["id"] = 61900767, ["channelid"] = 121212 },
 
  ["dudeidcgabnr"] = { ["id"] = 3232893368, ["channelid"] = 121212 },
 
