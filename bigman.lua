@@ -123,7 +123,18 @@ local autojoins = {
  ["reignbot04u2304"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
 
 
- ["GlamorousRelease1408"] = { ["id"] = 0, ["channelid"] = 121212 },
+ ["GlamorousRelease1408"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+ ["StarryGambling5317"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+ ["SuperbCharacter5369"] = { ["id"] = 61900767, ["channelid"] = 121212 },
+
+ ["ShallowTension1130"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
+ ["PeskyBlue4481"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
+
+ ["UnpleasantPick8922"] = { ["id"] = 563752484, ["channelid"] = 121212 },
+ ["DenseCauliflower2893"] = { ["id"] = 563752484, ["channelid"] = 121212 },
+
+  ["BleakGeology1562"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
+ ["ThoughtfulPine7613"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
     
      
     
