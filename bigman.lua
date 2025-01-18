@@ -58,18 +58,12 @@ local autojoins = {
    ["FumblingDenim5626"] = { ["id"] = 6097030522, ["channelid"] = 121212 },
    ["SevereBeastie696"] = { ["id"] = 6097030522, ["channelid"] = 121212 },
 
-   ["RewardingSalmon2337"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-   ["HappygoluckySuet1101"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-   ["FlamboyantStyling973"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-   ["WaterloggedMask7993"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-    ["FilthyJail5434"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-    ["WorthyDecoder2382"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
 
     ["WickedAffiliate225"] = { ["id"] = 7710199117, ["channelid"] = 121212 },
     ["RealElite7100"] = { ["id"] = 7710199117, ["channelid"] = 121212 },
     ["CarelessEmphasis4907"] = { ["id"] = 7710199117, ["channelid"] = 121212 },
     ["OnlyTrail5030"] = { ["id"] = 7710199117, ["channelid"] = 121212 },
-    ["MatureCrap2195"] = { ["id"] = 7710199117, ["channelid"] = 121212 },
+    
     
     ["LegalAbbey7534"] = { ["id"] = 2948539, ["channelid"] = 121212 },
 
@@ -95,7 +89,7 @@ local autojoins = {
     ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["GlassKielbasa4811"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["Replacement21378127"] = { ["id"] = 482226602, ["channelid"] = 121212 },
-    ["BeautifulGadget1511"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    
 
     ["Replacement781236"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
 
@@ -135,7 +129,8 @@ local autojoins = {
 
   ["BleakGeology1562"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
  ["ThoughtfulPine7613"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-    
+ ["MatureCrap2195"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
+    ["BeautifulGadget1511"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
      
     
 }
