@@ -130,10 +130,10 @@ local autojoins = {
  ["UnpleasantPick8922"] = { ["id"] = 563752484, ["channelid"] = 121212 },
  ["DenseCauliflower2893"] = { ["id"] = 563752484, ["channelid"] = 121212 },
 
-  ["BleakGeology1562"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
- ["ThoughtfulPine7613"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
- ["MatureCrap2195"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
-    ["BeautifulGadget1511"] = { ["id"] = 5321835429, ["channelid"] = 121212 },
+  ["BleakGeology1562"] = { ["id"] = 3651330010, ["channelid"] = 121212 },
+ ["ThoughtfulPine7613"] = { ["id"] = 3651330010, ["channelid"] = 121212 },
+ ["MatureCrap2195"] = { ["id"] = 3651330010, ["channelid"] = 121212 },
+    ["BeautifulGadget1511"] = { ["id"] = 3651330010, ["channelid"] = 121212 },
      
     
 }
