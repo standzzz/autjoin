@@ -77,13 +77,16 @@ local autojoins = {
     ["LongBuck6264"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["BigheartedMight9697"] = { ["id"] = 888008, ["channelid"] = 121212 },
     ["PeacefulTrouble8634"] = { ["id"] = 888008, ["channelid"] = 121212 },
-    ["NuttyInverse8373"] = { ["id"] = 888008, ["channelid"] = 121212 },
+ 
+    
 
     ["RapidPodcast4735"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["KnownLipid4260"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["OptimisticStart551"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["reigndoesntlose"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
-    ["reigndoesntlose2"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+ 
+ ["NuttyInverse8373"] = { ["id"] = 479135621, ["channelid"] = 121212 },
+    ["reigndoesntlose2"] = { ["id"] = 479135621, ["channelid"] = 121212 },
 
     ["InsecureCivilian8325"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
