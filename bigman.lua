@@ -81,14 +81,14 @@ local autojoins = {
 
     ["RapidPodcast4735"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["KnownLipid4260"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
-    ["ILOVEMALESLOLXD"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
+    ["OptimisticStart551"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["reigndoesntlose"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
     ["reigndoesntlose2"] = { ["id"] = 5805710750, ["channelid"] = 121212 },
 
     ["InsecureCivilian8325"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["ConfusedVicinity4004"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     ["GlassKielbasa4811"] = { ["id"] = 482226602, ["channelid"] = 121212 },
-    ["Replacement21378127"] = { ["id"] = 482226602, ["channelid"] = 121212 },
+    ["AdolescentHorst6540"] = { ["id"] = 482226602, ["channelid"] = 121212 },
     
 
     ["Replacement781236"] = { ["id"] = 2296740028, ["channelid"] = 121212 },
@@ -96,11 +96,11 @@ local autojoins = {
     ["ReignBot12361236"] = { ["id"] = 60925058, ["channelid"] = 121212 },
     ["AdeptBark83"] = { ["id"] = 60925058, ["channelid"] = 121212 },
 
-    ["SubstantialProw8818"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
+    ["TornSuburb152"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
     ["PlaintiveSteam204"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
     
     ["reignspam2823734673"] = { ["id"] = 94328598, ["channelid"] = 121212 },
-    ["reignspam2387213789"] = { ["id"] = 94328598, ["channelid"] = 121212 },
+    ["ProfitableBitten1295"] = { ["id"] = 94328598, ["channelid"] = 121212 },
 
     ["reignspam21397219376"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
     ["reignspam272635645"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
@@ -108,8 +108,8 @@ local autojoins = {
  ["haveieverlost"] = { ["id"] = 2230361452, ["channelid"] = 121212 },
 
 
-    ["banreplacement8327"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
- ["BothArmchair8529"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
+    ["ThoughtfulPine7613"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
+ ["BleakGeology1562"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
 
  ["BusySpinach1587"] = { ["id"] = 3232893368, ["channelid"] = 121212 },
 
@@ -117,11 +117,11 @@ local autojoins = {
  ["reignbot04u2304"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
 
 
- ["GlamorousRelease1408"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
+ ["CultivatedRake6199"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
  ["StarryGambling5317"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
  ["SuperbCharacter5369"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
 
- ["ShallowTension1130"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
+ ["BlushingPlaster11"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
  ["PeskyBlue4481"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
 
  ["UnpleasantPick8922"] = { ["id"] = 563752484, ["channelid"] = 121212 },
