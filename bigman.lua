@@ -111,8 +111,8 @@ local autojoins = {
  ["haveieverlost"] = { ["id"] = 2230361452, ["channelid"] = 121212 },
 
 
-    ["ThoughtfulPine7613"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
- ["BleakGeology1562"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
+    ["ThoughtfulPine7613"] = { ["id"] = 1378790653, ["channelid"] = 121212 },
+ ["BleakGeology1562"] = { ["id"] = 1378790653, ["channelid"] = 121212 },
 
  ["BusySpinach1587"] = { ["id"] = 3232893368, ["channelid"] = 121212 },
 
@@ -120,9 +120,9 @@ local autojoins = {
  ["reignbot04u2304"] = { ["id"] = 4712125701, ["channelid"] = 121212 },
 
 
- ["CultivatedRake6199"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
- ["StarryGambling5317"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
- ["SuperbCharacter5369"] = { ["id"] = 1216257526, ["channelid"] = 121212 },
+ ["CultivatedRake6199"] = { ["id"] = 1378790653, ["channelid"] = 121212 },
+ ["StarryGambling5317"] = { ["id"] = 1378790653, ["channelid"] = 121212 },
+ ["SuperbCharacter5369"] = { ["id"] = 1378790653, ["channelid"] = 121212 },
 
  ["BlushingPlaster11"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
  ["PeskyBlue4481"] = { ["id"] = 7296606467, ["channelid"] = 121212 },
