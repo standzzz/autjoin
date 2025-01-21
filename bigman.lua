@@ -151,10 +151,10 @@ local autojoins = {
      ["GoodCrown6765"] = { ["id"] = 3439652795, ["channelid"] = 121212 },
     ["LimpNectarine4459"] = { ["id"] = 3439652795, ["channelid"] = 121212 },
 
-     ["AwkwardCrayfish1624"] = { ["id"] = 1, ["channelid"] = 121212 },
-    ["LoneResist2923"] = { ["id"] = 1, ["channelid"] = 121212 },
-     ["StaleReader9987"] = { ["id"] = 1, ["channelid"] = 121212 },
-    ["IllSnow2000"] = { ["id"] = 1, ["channelid"] = 121212 },
+     ["AwkwardCrayfish1624"] = { ["id"] = 7733522997, ["channelid"] = 121212 },
+    ["LoneResist2923"] = { ["id"] = 7733522997, ["channelid"] = 121212 },
+     ["StaleReader9987"] = { ["id"] = 7733522997, ["channelid"] = 121212 },
+    ["IllSnow2000"] = { ["id"] = 7733522997, ["channelid"] = 121212 },
      
 }
 
