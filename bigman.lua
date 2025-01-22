@@ -4,6 +4,10 @@ local autojoins = {
 ["KeenHemisphere7209"] = { ["id"] = 48065046, ["channelid"] = 2 },
 ["AdeptPermafrost3890"] = { ["id"] = 48065046, ["channelid"] = 2 },
 ["WholeGhost6479"] = { ["id"] = 48065046, ["channelid"] = 2 },
+["FlippantFraction9018"] = { ["id"] = 48065046, ["channelid"] = 26 },
+["ItchyMinnow5811"] = { ["id"] = 48065046, ["channelid"] = 26 },
+["SuperbDad8557"] = { ["id"] = 48065046, ["channelid"] = 26 },
+["WornPretzel6822"] = { ["id"] = 48065046, ["channelid"] = 26 },
 
 ["LazyWafer2941"] = { ["id"] = 7806083378, ["channelid"] = 21 },
 ["LoudKetch3622"] = { ["id"] = 7028520353, ["channelid"] = 21 },
