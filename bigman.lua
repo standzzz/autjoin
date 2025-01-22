@@ -118,10 +118,15 @@ local autojoins = {
      ["HandyBeastie4863"] = { ["id"] = 3439652795, ["channelid"] = 18 },
     ["GrowlingAppetite1656"] = { ["id"] = 3439652795, ["channelid"] = 18 },
 
-     ["ImportantRivulet1972"] = { ["id"] = 7733522997, ["channelid"] = 27 },
-    ["AlarmedBusiness2620"] = { ["id"] = 7733522997, ["channelid"] = 27 },
-     ["NiftyConversion4294"] = { ["id"] = 7733522997, ["channelid"] = 27 },
-    ["UselessDancing7613"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+     ["AgedStandpoint8480"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+    ["WorthlessChili5589"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+     ["FrankHunger2514"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+    ["ThreadbareApe2586"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+
+         ["HarshProsecutor3647"] = { ["id"] = 479135621, ["channelid"] = 28 },
+    ["HoarseResistance9520"] = { ["id"] = 479135621, ["channelid"] = 28 },
+     ["GloomyDemocracy3818"] = { ["id"] = 479135621, ["channelid"] = 28 },
+    ["AncientOffice9522"] = { ["id"] = 1, ["channelid"] = 28 },
      
 }
 
