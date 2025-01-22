@@ -118,10 +118,10 @@ local autojoins = {
      ["HandyBeastie4863"] = { ["id"] = 3439652795, ["channelid"] = 18 },
     ["GrowlingAppetite1656"] = { ["id"] = 3439652795, ["channelid"] = 18 },
 
-     ["ImportantRivulet1972"] = { ["id"] = 7733522997, ["channelid"] = 24 },
-    ["AlarmedBusiness2620"] = { ["id"] = 7733522997, ["channelid"] = 24 },
-     ["NiftyConversion4294"] = { ["id"] = 7733522997, ["channelid"] = 24 },
-    ["UselessDancing7613"] = { ["id"] = 7733522997, ["channelid"] = 24 },
+     ["ImportantRivulet1972"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+    ["AlarmedBusiness2620"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+     ["NiftyConversion4294"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+    ["UselessDancing7613"] = { ["id"] = 7733522997, ["channelid"] = 27 },
      
 }
 
