@@ -69,9 +69,9 @@ local autojoins = {
 ["InfamousLogo1987"] = { ["id"] = 2296740028, ["channelid"] = 9 },
 ["GivingStallion8086"] = { ["id"] = 60925058, ["channelid"] = 9 },
 ["TintedRock8051"] = { ["id"] = 60925058, ["channelid"] = 9 },
-["UtterMaker6703"] = { ["id"] = 4183382307, ["channelid"] = 9 },
+["UtterMaker6703"] = { ["id"] = 1666857435, ["channelid"] = 9 },
  
- ["FarflungElicit8111"] = { ["id"] = 4183382307, ["channelid"] = 25 },
+ ["FarflungElicit8111"] = { ["id"] = 1666857435, ["channelid"] = 25 },
  ["HurtfulDungeon9795"] = { ["id"] = 94328598, ["channelid"] = 25 },
  ["NauticalTalking4172"] = { ["id"] = 94328598, ["channelid"] = 25 },
  ["SilkyJustice1716"] = { ["id"] = 1873146655, ["channelid"] = 25 },
