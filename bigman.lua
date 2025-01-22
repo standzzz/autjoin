@@ -67,12 +67,15 @@ local autojoins = {
 ["TintedRock8051"] = { ["id"] = 60925058, ["channelid"] = 9 },
 ["UtterMaker6703"] = { ["id"] = 4183382307, ["channelid"] = 9 },
  
- ["PlaintiveSteam204"] = { ["id"] = 4183382307, ["channelid"] = 121212 },
- ["reignspam2823734673"] = { ["id"] = 94328598, ["channelid"] = 121212 },
- ["ProfitableBitten1295"] = { ["id"] = 94328598, ["channelid"] = 121212 },
- ["reignspam21397219376"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
- ["reignspam272635645"] = { ["id"] = 1873146655, ["channelid"] = 121212 },
- ["haveieverlost"] = { ["id"] = 2230361452, ["channelid"] = 121212 },
+ ["FarflungElicit8111"] = { ["id"] = 4183382307, ["channelid"] = 25 },
+ ["HurtfulDungeon9795"] = { ["id"] = 94328598, ["channelid"] = 25 },
+ ["NauticalTalking4172"] = { ["id"] = 94328598, ["channelid"] = 25 },
+ ["SilkyJustice1716"] = { ["id"] = 1873146655, ["channelid"] = 25 },
+    
+ ["PositiveFruit3806"] = { ["id"] = 1873146655, ["channelid"] = 24 },
+ ["WeakSkylight8878"] = { ["id"] = 2230361452, ["channelid"] = 24 },
+["AntiqueKnife891"] = { ["id"] = 3133705395, ["channelid"] = 24 },
+ ["NoisyImprovement1874"] = { ["id"] = 1, ["channelid"] = 24 },
 
 
 ["FairMedium2600"] = { ["id"] = 1378790653, ["channelid"] = 8 },
