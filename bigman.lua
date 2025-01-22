@@ -88,10 +88,10 @@ local autojoins = {
 ["SaneCutting3568"] = { ["id"] = 4712125701, ["channelid"] = 8 },
 
 
- ["WindyElevation4605"] = { ["id"] = 1378790653, ["channelid"] = 7 },
- ["HeavenlyLung3699"] = { ["id"] = 3056674776, ["channelid"] = 7 },
- ["MindlessSeminar6562"] = { ["id"] = 1378790653, ["channelid"] = 7 },
-  ["BusySpinach1587"] = { ["id"] = 3232893368, ["channelid"] = 7 },
+ ["ImportantRivulet1972"] = { ["id"] = 1378790653, ["channelid"] = 27 },
+ ["AlarmedBusiness2620"] = { ["id"] = 3056674776, ["channelid"] = 27 },
+ ["NiftyConversion4294"] = { ["id"] = 1378790653, ["channelid"] = 27 },
+  ["UselessDancing7613"] = { ["id"] = 3232893368, ["channelid"] = 27 },
 
 ["CorruptHandful9083"] = { ["id"] = 7296606467, ["channelid"] = 6 },
 ["ImmaculateTrick7264"] = { ["id"] = 7296606467, ["channelid"] = 6 },
@@ -118,10 +118,10 @@ local autojoins = {
      ["HandyBeastie4863"] = { ["id"] = 3439652795, ["channelid"] = 18 },
     ["GrowlingAppetite1656"] = { ["id"] = 3439652795, ["channelid"] = 18 },
 
-     ["AgedStandpoint8480"] = { ["id"] = 7733522997, ["channelid"] = 27 },
-    ["WorthlessChili5589"] = { ["id"] = 7733522997, ["channelid"] = 27 },
-     ["FrankHunger2514"] = { ["id"] = 7733522997, ["channelid"] = 27 },
-    ["ThreadbareApe2586"] = { ["id"] = 7733522997, ["channelid"] = 27 },
+     ["AgedStandpoint8480"] = { ["id"] = 7733522997, ["channelid"] = 7 },
+    ["WorthlessChili5589"] = { ["id"] = 7733522997, ["channelid"] = 7 },
+     ["FrankHunger2514"] = { ["id"] = 7733522997, ["channelid"] = 7 },
+    ["ThreadbareApe2586"] = { ["id"] = 7733522997, ["channelid"] = 7 },
 
          ["HarshProsecutor3647"] = { ["id"] = 479135621, ["channelid"] = 28 },
     ["HoarseResistance9520"] = { ["id"] = 479135621, ["channelid"] = 28 },
