@@ -78,7 +78,7 @@ local autojoins = {
     
  ["PositiveFruit3806"] = { ["id"] = 1873146655, ["channelid"] = 24 },
  ["WeakSkylight8878"] = { ["id"] = 2230361452, ["channelid"] = 24 },
-["AntiqueKnife891"] = { ["id"] = 4604791056, ["channelid"] = 24 },
+["TastySpine4745"] = { ["id"] = 4604791056, ["channelid"] = 24 },
  ["NoisyImprovement1874"] = { ["id"] = 3056674776, ["channelid"] = 24 },
 
 
