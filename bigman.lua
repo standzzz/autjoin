@@ -126,7 +126,7 @@ local autojoins = {
          ["HarshProsecutor3647"] = { ["id"] = 479135621, ["channelid"] = 28 },
     ["HoarseResistance9520"] = { ["id"] = 479135621, ["channelid"] = 28 },
      ["GloomyDemocracy3818"] = { ["id"] = 479135621, ["channelid"] = 28 },
-    ["AncientOffice9522"] = { ["id"] = 1, ["channelid"] = 28 },
+    ["AncientOffice9522"] = { ["id"] = 143268149, ["channelid"] = 28 },
      
 }
 
