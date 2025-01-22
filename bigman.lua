@@ -75,7 +75,7 @@ local autojoins = {
  ["PositiveFruit3806"] = { ["id"] = 1873146655, ["channelid"] = 24 },
  ["WeakSkylight8878"] = { ["id"] = 2230361452, ["channelid"] = 24 },
 ["AntiqueKnife891"] = { ["id"] = 3133705395, ["channelid"] = 24 },
- ["NoisyImprovement1874"] = { ["id"] = 1, ["channelid"] = 24 },
+ ["NoisyImprovement1874"] = { ["id"] = 3056674776, ["channelid"] = 24 },
 
 
 ["FairMedium2600"] = { ["id"] = 1378790653, ["channelid"] = 8 },
@@ -85,7 +85,7 @@ local autojoins = {
 
 
  ["WindyElevation4605"] = { ["id"] = 1378790653, ["channelid"] = 7 },
- ["HeavenlyLung3699"] = { ["id"] = 1378790653, ["channelid"] = 7 },
+ ["HeavenlyLung3699"] = { ["id"] = 3056674776, ["channelid"] = 7 },
  ["MindlessSeminar6562"] = { ["id"] = 1378790653, ["channelid"] = 7 },
   ["BusySpinach1587"] = { ["id"] = 3232893368, ["channelid"] = 7 },
 
