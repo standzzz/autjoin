@@ -131,7 +131,7 @@ local autojoins = {
              ["reignsuperiority"] = { ["id"] = 4323275046, ["channelid"] = 29 },
     ["reignwinslol"] = { ["id"] = 5633053442, ["channelid"] = 29 },
      ["reignslapslol"] = { ["id"] = 5633053442, ["channelid"] = 29 },
-    ["reigndominateslol"] = { ["id"] = 4726906885, ["channelid"] = 29 },
+    ["reigndominateslol"] = { ["id"] = 4271114207, ["channelid"] = 29 },
      
 }
 
