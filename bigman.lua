@@ -134,7 +134,7 @@ local autojoins = {
     ["reigndominateslol"] = { ["id"] = 4271114207, ["channelid"] = 29 },
     
                  ["FloweryFitness5442"] = { ["id"] = 4323275046, ["channelid"] = 30 },
-    ["AgileMangrove447"] = { ["id"] = 0, ["channelid"] = 30 },
+    ["AgileMangrove447"] = { ["id"] = 4271114207, ["channelid"] = 30 },
      ["PoshWedge8379"] = { ["id"] = 0, ["channelid"] = 30 },
     ["SwiftRoller463"] = { ["id"] = 0, ["channelid"] = 30 },
      
