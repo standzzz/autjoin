@@ -127,6 +127,11 @@ local autojoins = {
     ["HoarseResistance9520"] = { ["id"] = 479135621, ["channelid"] = 28 },
      ["GloomyDemocracy3818"] = { ["id"] = 479135621, ["channelid"] = 28 },
     ["AncientOffice9522"] = { ["id"] = 5633053442, ["channelid"] = 28 },
+
+             ["reignsuperiority"] = { ["id"] = 5532804324, ["channelid"] = 29 },
+    ["reignwinslol"] = { ["id"] = 5532804324, ["channelid"] = 29 },
+     ["reignslapslol"] = { ["id"] = 5532804324, ["channelid"] = 29 },
+    ["reigndominateslol"] = { ["id"] = 5532804324, ["channelid"] = 29 },
      
 }
 
