@@ -1,6 +1,6 @@
 local autojoins = {
 
-["reignbot1626"] = { ["id"] = 2477434873, ["channelid"] = 2 },
+["random"] = { ["id"] = 2477434873, ["channelid"] = 2 },
 ["reignbot17263"] = { ["id"] = 2477434873, ["channelid"] = 2 },
 ["reignbot17270"] = { ["id"] = 2477434873, ["channelid"] = 2 },
 ["reignbot17267"] = { ["id"] = 2477434873, ["channelid"] = 2 },
