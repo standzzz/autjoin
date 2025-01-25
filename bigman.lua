@@ -157,6 +157,12 @@ local autojoins = {
     ["reignbot712"] = { ["id"] = 219775985, ["channelid"] = 34 },
      ["reignbot891"] = { ["id"] = 3059112632, ["channelid"] = 34 },
     ["reignbot716"] = { ["id"] = 3059112632, ["channelid"] = 34 },
+
+    
+     ["reignwinslolxd"] = { ["id"] = 25302894, ["channelid"] = 35 },
+    ["reignxdlol"] = { ["id"] = 25302894, ["channelid"] = 35 },
+     ["reignalwaysprovides"] = { ["id"] = 25302894, ["channelid"] = 35 },
+    ["buyreign"] = { ["id"] = 25302894, ["channelid"] = 35 },
      
 }
 
