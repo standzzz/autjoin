@@ -169,8 +169,8 @@ local autojoins = {
      ["reignlooksweird"] = { ["id"] = 1376998674, ["channelid"] = 36 },
     ["reigneatsu"] = { ["id"] = 1376998674, ["channelid"] = 36 },
 
-         ["reignistheg"] = { ["id"] = 2477434873, ["channelid"] = 37 },
-    ["bigupreign"] = { ["id"] = 2477434873, ["channelid"] = 37 },
+         ["reignistheg"] = { ["id"] = 5532804324, ["channelid"] = 37 },
+    ["bigupreign"] = { ["id"] = 5532804324, ["channelid"] = 37 },
      ["giggareign"] = { ["id"] = 2477434873, ["channelid"] = 37 },
     ["whosereign"] = { ["id"] = 2477434873, ["channelid"] = 37 },
      
