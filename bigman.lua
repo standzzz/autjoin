@@ -1,11 +1,11 @@
 local autojoins = {
 
-["reignbot1626"] = { ["id"] = 2477434873, ["channelid"] = 2 },
-["reignbot17263"] = { ["id"] = 2477434873, ["channelid"] = 2 },
-["reignbot17270"] = { ["id"] = 2477434873, ["channelid"] = 2 },
-["reignbot17267"] = { ["id"] = 2477434873, ["channelid"] = 2 },
-["reignbot17274"] = { ["id"] = 2477434873, ["channelid"] = 26 },
-["reignbot1626"] = { ["id"] = 2477434873, ["channelid"] = 26 },
+["reignbot1626"] = { ["id"] = 7923160947, ["channelid"] = 2 },
+["reignbot17263"] = { ["id"] = 7923160947, ["channelid"] = 2 },
+["reignbot17270"] = { ["id"] = 7923160947, ["channelid"] = 2 },
+["reignbot17267"] = { ["id"] = 7923160947, ["channelid"] = 2 },
+["reignbot17274"] = { ["id"] = 7923160947, ["channelid"] = 26 },
+["reignbot1626"] = { ["id"] = 7923160947, ["channelid"] = 26 },
 ["reignacc"] = { ["id"] = 25302894, ["channelid"] = 26 },
 ["reignbot6151"] = { ["id"] = 25302894, ["channelid"] = 26 },
 
