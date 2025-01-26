@@ -163,6 +163,16 @@ local autojoins = {
     ["reignxdlol"] = { ["id"] = 25302894, ["channelid"] = 35 },
      ["reignalwaysprovides"] = { ["id"] = 25302894, ["channelid"] = 35 },
     ["buyreign"] = { ["id"] = 25302894, ["channelid"] = 35 },
+
+         ["reign23845"] = { ["id"] = 3274223668, ["channelid"] = 36 },
+    ["reign00223"] = { ["id"] = 3274223668, ["channelid"] = 36 },
+     ["reignlooksweird"] = { ["id"] = 1376998674, ["channelid"] = 36 },
+    ["reigneatsu"] = { ["id"] = 1376998674, ["channelid"] = 36 },
+
+         ["reignistheg"] = { ["id"] = 2477434873, ["channelid"] = 37 },
+    ["bigupreign"] = { ["id"] = 2477434873, ["channelid"] = 37 },
+     ["giggareign"] = { ["id"] = 2477434873, ["channelid"] = 37 },
+    ["whosereign"] = { ["id"] = 2477434873, ["channelid"] = 37 },
      
 }
 
