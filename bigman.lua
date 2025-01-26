@@ -39,10 +39,10 @@ local autojoins = {
 ["reignwonxd"] = { ["id"] = 6097030522, ["channelid"] = 10 },
 ["whydontyouhavereign"] = { ["id"] = 6097030522, ["channelid"] = 10 },
 
-["reignateyourdog"] = { ["id"] = 7710199117, ["channelid"] = 11 },
-["reinggurgleswater"] = { ["id"] = 7710199117, ["channelid"] = 11 },
-["reignneverslacked"] = { ["id"] = 7710199117, ["channelid"] = 11 },
-["reignvsurdad"] = { ["id"] = 7710199117, ["channelid"] = 11 },
+["reignateyourdog"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reinggurgleswater"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reignistheone"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reignvsurdad"] = { ["id"] = 5689971829, ["channelid"] = 11 },
     
 ["reigndefeats"] = { ["id"] = 7872269103, ["channelid"] = 15 },
 ["reignneverlooses"] = { ["id"] = 7872269103, ["channelid"] = 15 },
