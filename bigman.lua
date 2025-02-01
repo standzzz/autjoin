@@ -24,10 +24,10 @@ local autojoins = {
 ["reignbot1254"] = { ["id"] = 89592580, ["channelid"] = 23 },
 ["reignbot115"] = { ["id"] = 2861390215, ["channelid"] = 23 },
  
-["reignslapsu"] = { ["id"] = 7028520353, ["channelid"] = 12 },
-["reignisvoluptuous"] = { ["id"] = 2948539, ["channelid"] = 12 },
-["reignlikesfood"] = { ["id"] = 2296740028, ["channelid"] = 12 },
-["reignsitsonu"] = { ["id"] = 2296740028, ["channelid"] = 12 },
+["reignbot093"] = { ["id"] = 7028520353, ["channelid"] = 12 },
+["reignbot092"] = { ["id"] = 2948539, ["channelid"] = 12 },
+["reignbot091"] = { ["id"] = 2296740028, ["channelid"] = 12 },
+["reignbot090"] = { ["id"] = 2296740028, ["channelid"] = 12 },
 
 ["specreign"] = { ["id"] = 2025365241, ["channelid"] = 1 },
 ["properhardroad"] = { ["id"] = 2025365241, ["channelid"] = 1 },
@@ -44,20 +44,20 @@ local autojoins = {
 ["brainreign"] = { ["id"] = 5689971829, ["channelid"] = 11 },
 ["reignlikespain"] = { ["id"] = 5689971829, ["channelid"] = 11 },
     
-["reignforeverthebest"] = { ["id"] = 7872269103, ["channelid"] = 15 },
-["reignalwaysthebest"] = { ["id"] = 7872269103, ["channelid"] = 15 },
-["copreign"] = { ["id"] = 479135621, ["channelid"] = 15 },
-["buyreignlol"] = { ["id"] = 479135621, ["channelid"] = 15 },
+["reignbot097"] = { ["id"] = 7872269103, ["channelid"] = 15 },
+["reignbot096"] = { ["id"] = 7872269103, ["channelid"] = 15 },
+["reignbot094"] = { ["id"] = 479135621, ["channelid"] = 15 },
+["reignbot095"] = { ["id"] = 479135621, ["channelid"] = 15 },
 
 ["reigngurgles"] = { ["id"] = 888008, ["channelid"] = 13 },
 ["reignstompedu"] = { ["id"] = 888008, ["channelid"] = 13 },
 ["reignloolxd"] = { ["id"] = 888008, ["channelid"] = 13 },
 ["reignontoplol"] = { ["id"] = 888008, ["channelid"] = 13 },   
 
-["reignontopxd"] = { ["id"] = 5805710750, ["channelid"] = 14 },
-["reignontopalways"] = { ["id"] = 5805710750, ["channelid"] = 14 },
-["reignalwaysontop"] = { ["id"] = 5805710750, ["channelid"] = 14 },
-["reignlolxd"] = { ["id"] = 5805710750, ["channelid"] = 14 },
+["reignbot101"] = { ["id"] = 5805710750, ["channelid"] = 14 },
+["reignbot100"] = { ["id"] = 5805710750, ["channelid"] = 14 },
+["reignbot098"] = { ["id"] = 5805710750, ["channelid"] = 14 },
+["reignbot099"] = { ["id"] = 5805710750, ["channelid"] = 14 },
  
 
 ["satablexd"] = { ["id"] = 482226602, ["channelid"] = 16 },
