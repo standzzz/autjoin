@@ -66,8 +66,8 @@ local autojoins = {
 ["transparentplot"] = { ["id"] = 482226602, ["channelid"] = 16 },
     
 
-["reignbot046"] = { ["id"] = 2534518170, ["channelid"] = 9 },
-["reignbot047"] = { ["id"] = 2534518170, ["channelid"] = 9 },
+["reignbot046"] = { ["id"] = 5150638965, ["channelid"] = 9 },
+["reignbot047"] = { ["id"] = 5150638965, ["channelid"] = 9 },
 ["reignbot048"] = { ["id"] = 6193458123, ["channelid"] = 9 },
 ["reignbot049"] = { ["id"] = 1666857435, ["channelid"] = 9 },
  
