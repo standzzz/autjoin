@@ -39,10 +39,10 @@ local autojoins = {
 ["harveyspecterlittlol"] = { ["id"] = 6097030522, ["channelid"] = 10 },
 ["runthroughrei"] = { ["id"] = 6097030522, ["channelid"] = 10 },
 
-["reignjustgains"] = { ["id"] = 5689971829, ["channelid"] = 11 },
-["reignhasfame"] = { ["id"] = 5689971829, ["channelid"] = 11 },
-["brainreign"] = { ["id"] = 5689971829, ["channelid"] = 11 },
-["reignlikespain"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reignbot102"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reignbot103"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reignbot104"] = { ["id"] = 5689971829, ["channelid"] = 11 },
+["reignbot105"] = { ["id"] = 5689971829, ["channelid"] = 11 },
     
 ["reignbot097"] = { ["id"] = 7872269103, ["channelid"] = 15 },
 ["reignbot096"] = { ["id"] = 7872269103, ["channelid"] = 15 },
