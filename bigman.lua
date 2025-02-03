@@ -222,37 +222,37 @@ local autojoins = {
 ["reignbot083"] = { ["id"] = 3592699668, ["channelid"] = 47 },
 ["reignbot084"] = { ["id"] = 3592699668, ["channelid"] = 47 },
 ["reignbot085"] = { ["id"] = 7948700266, ["channelid"] = 47 },
-["reignbot086 "] = { ["id"] = 7948700266, ["channelid"] = 47 },
+["reignbot086"] = { ["id"] = 7948700266, ["channelid"] = 47 },
 
 ["reignbot111"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["reignbot113"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["reignbot114"] = { ["id"] = 3296124832, ["channelid"] = 48 },
-["reignbot117 "] = { ["id"] = 3296124832, ["channelid"] = 48 },
+["reignbot117"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 
 ["reignbot119"] = { ["id"] = 3296124832, ["channelid"] = 49 },
 ["reignbot121"] = { ["id"] = 3296124832, ["channelid"] = 49 },
 ["reignbot122"] = { ["id"] = 1368935409, ["channelid"] = 49 },
-["reignbot128 "] = { ["id"] = 1368935409, ["channelid"] = 49 },
+["reignbot128"] = { ["id"] = 1368935409, ["channelid"] = 49 },
 
 ["reignbot130"] = { ["id"] = 1368935409, ["channelid"] = 50 },
 ["reignbot131"] = { ["id"] = 1368935409, ["channelid"] = 50 },
 ["reignbot132"] = { ["id"] = 1368935409, ["channelid"] = 50 },
-["reignbot133 "] = { ["id"] = 1368935409, ["channelid"] = 50 },
+["reignbot133"] = { ["id"] = 1368935409, ["channelid"] = 50 },
 
 ["reignbot134"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 ["reignbot135"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 ["reignbot136"] = { ["id"] = 5710075832, ["channelid"] = 51 },
-["reignbot137 "] = { ["id"] = 5710075832, ["channelid"] = 51 },
+["reignbot137"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 
 ["reignbot138"] = { ["id"] = 5710075832, ["channelid"] = 52 },
 ["reignbot139"] = { ["id"] = 5710075832, ["channelid"] = 52 },
 ["reignbot140"] = { ["id"] = 7411906033, ["channelid"] = 52 },
-["reignbot141 "] = { ["id"] = 7411906033, ["channelid"] = 52 },
+["reignbot141"] = { ["id"] = 7411906033, ["channelid"] = 52 },
 
 ["reignbot143"] = { ["id"] = 3417600181, ["channelid"] = 53 },
 ["reignbot144"] = { ["id"] = 3417600181, ["channelid"] = 53 },
 ["reignbot145"] = { ["id"] = 3417600181, ["channelid"] = 53 },
-["reignbot146 "] = { ["id"] = 3417600181, ["channelid"] = 53 },
+["reignbot146"] = { ["id"] = 3417600181, ["channelid"] = 53 },
 }
 
 
