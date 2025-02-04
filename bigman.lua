@@ -60,10 +60,10 @@ local autojoins = {
 ["reignbot099"] = { ["id"] = 5805710750, ["channelid"] = 14 },
  
 
-["satablexd"] = { ["id"] = 482226602, ["channelid"] = 16 },
-["steamgamesps4"] = { ["id"] = 482226602, ["channelid"] = 16 },
-["trashaccountspaz"] = { ["id"] = 482226602, ["channelid"] = 16 },
-["transparentplot"] = { ["id"] = 482226602, ["channelid"] = 16 },
+["reignbot178"] = { ["id"] = 482226602, ["channelid"] = 16 },
+["reignbot177"] = { ["id"] = 482226602, ["channelid"] = 16 },
+["reignbot176"] = { ["id"] = 482226602, ["channelid"] = 16 },
+["reignbot174"] = { ["id"] = 482226602, ["channelid"] = 16 },
     
 
 ["reignbot046"] = { ["id"] = 5150638965, ["channelid"] = 9 },
