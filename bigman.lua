@@ -1,5 +1,5 @@
 local autojoins = {
-
+["reigntestingfeat"] = { ["id"] = 1163251, ["channelid"] = 0 },
     ["2 BOTS NEEDED NONE LINKED"] = { ["id"] = 40242128, ["channelid"] = 0 },
     ["2 BOTS NEEDED NONE LINKED"] = { ["id"] = 40242128, ["channelid"] = 0 },
 
