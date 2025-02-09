@@ -131,7 +131,7 @@ local autojoins = {
      ["TerribleClaim8383"] = { ["id"] = 479135621, ["channelid"] = 28 },
     ["ChiefMortal5500"] = { ["id"] = 7567735976, ["channelid"] = 28 },
 
-             ["CarefulFail8343"] = { ["id"] = 5532804324, ["channelid"] = 29 },
+             ["CarefulFail8343"] = { ["id"] = 7408063438, ["channelid"] = 29 },
     ["PinkPudding1829"] = { ["id"] = 7567735976, ["channelid"] = 29 },
      ["UnusedCommercial835"] = { ["id"] = 7567735976, ["channelid"] = 29 },
     ["LinearGirdle3142"] = { ["id"] = 7872269103, ["channelid"] = 29 },
@@ -194,8 +194,8 @@ local autojoins = {
 
 ["ImpishJudgment6377"] = { ["id"] = 24256024, ["channelid"] = 41 },
 ["LoyalMound7212"] = { ["id"] = 24256024, ["channelid"] = 41 },
-["VioletTimer4220"] = { ["id"] = 5532804324, ["channelid"] = 41 },
-["TrustyCarnation1317"] = { ["id"] = 5532804324, ["channelid"] = 41 },
+["VioletTimer4220"] = { ["id"] = 7408063438, ["channelid"] = 41 },
+["TrustyCarnation1317"] = { ["id"] = 7408063438, ["channelid"] = 41 },
 
 ["GrownDock6254"] = { ["id"] = 2816918669, ["channelid"] = 42 },
 ["SuburbanThousand7068"] = { ["id"] = 2816918669, ["channelid"] = 42 },
@@ -219,8 +219,8 @@ local autojoins = {
 
 ["AngryEyebrows8899"] = { ["id"] = 2816918669, ["channelid"] = 46 },
 ["GleamingReserve9482"] = { ["id"] = 2816918669, ["channelid"] = 46 },
-["DisgustingRainy7379"] = { ["id"] = 3592699668, ["channelid"] = 46 },
-["MortifiedPard1607"] = { ["id"] = 3592699668, ["channelid"] = 46 },
+["DisgustingRainy7379"] = { ["id"] = 3656453975, ["channelid"] = 46 },
+["MortifiedPard1607"] = { ["id"] = 3656453975, ["channelid"] = 46 },
 
 ["PureSpacing4409"] = { ["id"] = 7963783071, ["channelid"] = 47 },
 ["SanePremier8137"] = { ["id"] = 7963783071, ["channelid"] = 47 },
