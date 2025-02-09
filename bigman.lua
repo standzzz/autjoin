@@ -197,10 +197,10 @@ local autojoins = {
 ["VioletTimer4220"] = { ["id"] = 5532804324, ["channelid"] = 41 },
 ["TrustyCarnation1317"] = { ["id"] = 5532804324, ["channelid"] = 41 },
 
-["GrownDock6254"] = { ["id"] = 4323275046, ["channelid"] = 42 },
-["SuburbanThousand7068"] = { ["id"] = 4323275046, ["channelid"] = 42 },
-["OptimalEjector5783"] = { ["id"] = 4323275046, ["channelid"] = 42 },
-["CulturedCricket2316"] = { ["id"] = 4323275046, ["channelid"] = 42 },
+["GrownDock6254"] = { ["id"] = 2816918669, ["channelid"] = 42 },
+["SuburbanThousand7068"] = { ["id"] = 2816918669, ["channelid"] = 42 },
+["OptimalEjector5783"] = { ["id"] = 2816918669, ["channelid"] = 42 },
+["CulturedCricket2316"] = { ["id"] = 2816918669, ["channelid"] = 42 },
 
 ["CriminalAshram9161"] = { ["id"] = 333325231, ["channelid"] = 43 },
 ["VirtualSack1832"] = { ["id"] = 333325231, ["channelid"] = 43 },
@@ -217,8 +217,8 @@ local autojoins = {
 ["BouncyDesktop872"] = { ["id"] = 3919578466, ["channelid"] = 45 },
 ["RespectfulSurge7826"] = { ["id"] = 3919578466, ["channelid"] = 45 },
 
-["AngryEyebrows8899"] = { ["id"] = 4323275046, ["channelid"] = 46 },
-["GleamingReserve9482"] = { ["id"] = 4323275046, ["channelid"] = 46 },
+["AngryEyebrows8899"] = { ["id"] = 2816918669, ["channelid"] = 46 },
+["GleamingReserve9482"] = { ["id"] = 2816918669, ["channelid"] = 46 },
 ["DisgustingRainy7379"] = { ["id"] = 3592699668, ["channelid"] = 46 },
 ["MortifiedPard1607"] = { ["id"] = 3592699668, ["channelid"] = 46 },
 
