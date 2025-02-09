@@ -252,10 +252,10 @@ local autojoins = {
 ["NauticalPower8998"] = { ["id"] = 3176406197, ["channelid"] = 52 },
 ["ElementaryHoof6240"] = { ["id"] = 3176406197, ["channelid"] = 52 },
 
-["AshamedApproval2054"] = { ["id"] = 3417600181, ["channelid"] = 53 },
-["QuarrelsomeScrim2263"] = { ["id"] = 3417600181, ["channelid"] = 53 },
-["ThoseCenturion3910"] = { ["id"] = 3417600181, ["channelid"] = 53 },
-["GratefulWar9294"] = { ["id"] = 3417600181, ["channelid"] = 53 },
+["AshamedApproval2054"] = { ["id"] = 7232214866, ["channelid"] = 53 },
+["QuarrelsomeScrim2263"] = { ["id"] = 7232214866, ["channelid"] = 53 },
+["ThoseCenturion3910"] = { ["id"] = 7232214866, ["channelid"] = 53 },
+["GratefulWar9294"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 }
 
 
