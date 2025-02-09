@@ -192,8 +192,8 @@ local autojoins = {
 ["QuickSupplier3078"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 ["BigTourist1381"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 
-["ImpishJudgment6377"] = { ["id"] = 5147701, ["channelid"] = 41 },
-["LoyalMound7212"] = { ["id"] = 5147701, ["channelid"] = 41 },
+["ImpishJudgment6377"] = { ["id"] = 24256024, ["channelid"] = 41 },
+["LoyalMound7212"] = { ["id"] = 24256024, ["channelid"] = 41 },
 ["VioletTimer4220"] = { ["id"] = 5532804324, ["channelid"] = 41 },
 ["TrustyCarnation1317"] = { ["id"] = 5532804324, ["channelid"] = 41 },
 
