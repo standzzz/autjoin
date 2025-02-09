@@ -246,9 +246,11 @@ local autojoins = {
 ["StraightDial3978"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 ["ClosedThyme4149"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 ["WetTankful3964"] = { ["id"] = 5710075832, ["channelid"] = 51 },
+    ["MISSING"] = { ["id"] = 5710075832, ["channelid"] = 51 },
+    ["MISSING"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 
-["AverageSenator4035"] = { ["id"] = 5710075832, ["channelid"] = 52 },
-["JaggedColleague6372"] = { ["id"] = 5710075832, ["channelid"] = 52 },
+["AverageSenator4035"] = { ["id"] = 94328598, ["channelid"] = 52 },
+["JaggedColleague6372"] = { ["id"] = 94328598, ["channelid"] = 52 },
 ["NauticalPower8998"] = { ["id"] = 3176406197, ["channelid"] = 52 },
 ["ElementaryHoof6240"] = { ["id"] = 3176406197, ["channelid"] = 52 },
 
