@@ -224,8 +224,8 @@ local autojoins = {
 
 ["PureSpacing4409"] = { ["id"] = 7963783071, ["channelid"] = 47 },
 ["SanePremier8137"] = { ["id"] = 7963783071, ["channelid"] = 47 },
-["LonelyExcitement5078"] = { ["id"] = 7948700266, ["channelid"] = 47 },
-["BossyTimpani3635"] = { ["id"] = 7948700266, ["channelid"] = 47 },
+["LonelyExcitement5078"] = { ["id"] = 7998224735, ["channelid"] = 47 },
+["BossyTimpani3635"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 
 ["LongNetsuke9355"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["AgitatedRealm8523"] = { ["id"] = 3296124832, ["channelid"] = 48 },
