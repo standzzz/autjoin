@@ -138,12 +138,12 @@ local autojoins = {
     
                  ["SuddenPolicy6974"] = { ["id"] = 1335230271, ["channelid"] = 30 },
     ["ValidPatentee1843"] = { ["id"] = 1335230271, ["channelid"] = 30 },
-     ["StrangeMistake7997"] = { ["id"] = 4173664106, ["channelid"] = 30 },
-    ["RigidProduct1783"] = { ["id"] = 4173664106, ["channelid"] = 30 },
+     ["StrangeMistake7997"] = { ["id"] = 3637919959, ["channelid"] = 30 },
+    ["RigidProduct1783"] = { ["id"] = 3637919959, ["channelid"] = 30 },
 
-     ["OutlandishEggnog1435"] = { ["id"] = 4173664106, ["channelid"] = 31 },
-    ["DrabRepeat8931"] = { ["id"] = 4173664106, ["channelid"] = 31 },
-     ["RoughLeek2765"] = { ["id"] = 4173664106, ["channelid"] = 31 },
+     ["OutlandishEggnog1435"] = { ["id"] = 3637919959, ["channelid"] = 31 },
+    ["DrabRepeat8931"] = { ["id"] = 3637919959, ["channelid"] = 31 },
+     ["RoughLeek2765"] = { ["id"] = 3637919959, ["channelid"] = 31 },
     ["LimpingPan2048"] = { ["id"] = 5706184807, ["channelid"] = 31 },
 
      ["OtherBonus2143"] = { ["id"] = 5706184807, ["channelid"] = 32 },
