@@ -234,13 +234,13 @@ local autojoins = {
 
 ["EarlySavior4496"] = { ["id"] = 3296124832, ["channelid"] = 49 },
 ["SnappySolidarity1224"] = { ["id"] = 3296124832, ["channelid"] = 49 },
-["WiseAmber7124"] = { ["id"] = 1368935409, ["channelid"] = 49 },
-["TheseHighlight8132"] = { ["id"] = 1368935409, ["channelid"] = 49 },
+["WiseAmber7124"] = { ["id"] = 5137561787, ["channelid"] = 49 },
+["TheseHighlight8132"] = { ["id"] = 5137561787, ["channelid"] = 49 },
 
-["VainRadiator2294"] = { ["id"] = 1368935409, ["channelid"] = 50 },
-["DifferentCascade7447"] = { ["id"] = 1368935409, ["channelid"] = 50 },
-["BowedAtmosphere5133"] = { ["id"] = 1368935409, ["channelid"] = 50 },
-["NervousTile1521"] = { ["id"] = 1368935409, ["channelid"] = 50 },
+["VainRadiator2294"] = { ["id"] = 5137561787, ["channelid"] = 50 },
+["DifferentCascade7447"] = { ["id"] = 5137561787, ["channelid"] = 50 },
+["BowedAtmosphere5133"] = { ["id"] = 5137561787, ["channelid"] = 50 },
+["NervousTile1521"] = { ["id"] = 5137561787, ["channelid"] = 50 },
 
 ["ComfortableShame3933"] = { ["id"] = 5710075832, ["channelid"] = 51 },
 ["StraightDial3978"] = { ["id"] = 5710075832, ["channelid"] = 51 },
