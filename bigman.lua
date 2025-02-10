@@ -264,10 +264,10 @@ local autojoins = {
 ["LankyStopsign2738"] = { ["id"] = 1916280686, ["channelid"] = 54 },
 ["DarkShutdown7950"] = { ["id"] = 1916280686, ["channelid"] = 54 },
 
-    ["HauntingCry4356"] = { ["id"] = 13736485, ["channelid"] = 55 },
-["OrderlyPants2833"] = { ["id"] = 13736485, ["channelid"] = 55 },
-["ClutteredMile1306"] = { ["id"] = 13736485, ["channelid"] = 55 },
-["WildQuartz9741"] = { ["id"] = 13736485, ["channelid"] = 55 },
+    ["HauntingCry4356"] = { ["id"] = 3610423014, ["channelid"] = 55 },
+["OrderlyPants2833"] = { ["id"] = 3610423014, ["channelid"] = 55 },
+["ClutteredMile1306"] = { ["id"] = 3610423014, ["channelid"] = 55 },
+["WildQuartz9741"] = { ["id"] = 3610423014, ["channelid"] = 55 },
 
     ["HandsomeMaelstrom348"] = { ["id"] = 7496030595, ["channelid"] = 56 },
 ["WorthyFen7943"] = { ["id"] = 7496030595, ["channelid"] = 56 },
