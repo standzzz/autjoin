@@ -177,13 +177,13 @@ local autojoins = {
      ["RevolvingFeed2468"] = { ["id"] = 2477434873, ["channelid"] = 37 },
     ["RequiredWalrus4908"] = { ["id"] = 2477434873, ["channelid"] = 37 },
 
-["UpsetAnatomy4146"] = { ["id"] = 4141553414, ["channelid"] = 38 },
-["AngelicDrill6332"] = { ["id"] = 4141553414, ["channelid"] = 38 },
-["SeparateRooster6913"] = { ["id"] = 4141553414, ["channelid"] = 38 },
-["RewardingPilgrim1932"] = { ["id"] = 4141553414, ["channelid"] = 38 },
+["UpsetAnatomy4146"] = { ["id"] = 5348528309, ["channelid"] = 38 },
+["AngelicDrill6332"] = { ["id"] = 5348528309, ["channelid"] = 38 },
+["SeparateRooster6913"] = { ["id"] = 5348528309, ["channelid"] = 38 },
+["RewardingPilgrim1932"] = { ["id"] = 5348528309, ["channelid"] = 38 },
 
-["AfraidPleasure5367"] = { ["id"] = 4141553414, ["channelid"] = 39 },
-["BrightCommerce4624"] = { ["id"] = 4141553414, ["channelid"] = 39 },
+["AfraidPleasure5367"] = { ["id"] = 5348528309, ["channelid"] = 39 },
+["BrightCommerce4624"] = { ["id"] = 5348528309, ["channelid"] = 39 },
 ["CoarseTail2305"] = { ["id"] = 3678157196, ["channelid"] = 39 },
 ["SweatyToenail548"] = { ["id"] = 3678157196, ["channelid"] = 39 },
 
