@@ -258,6 +258,31 @@ local autojoins = {
 ["QuarrelsomeScrim2263"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["ThoseCenturion3910"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["GratefulWar9294"] = { ["id"] = 7232214866, ["channelid"] = 53 },
+
+    ["HonoredStatue5812"] = { ["id"] = 1916280686, ["channelid"] = 54 },
+["VillainousRayon3985"] = { ["id"] = 1916280686, ["channelid"] = 54 },
+["LankyStopsign2738"] = { ["id"] = 1916280686, ["channelid"] = 54 },
+["DarkShutdown7950"] = { ["id"] = 1916280686, ["channelid"] = 54 },
+
+    ["HauntingCry4356"] = { ["id"] = 7232214866, ["channelid"] = 55 },
+["OrderlyPants2833"] = { ["id"] = 7232214866, ["channelid"] = 55 },
+["ClutteredMile1306"] = { ["id"] = 7232214866, ["channelid"] = 55 },
+["WildQuartz9741"] = { ["id"] = 7232214866, ["channelid"] = 55 },
+
+    ["HandsomeMaelstrom348"] = { ["id"] = 7232214866, ["channelid"] = 56 },
+["WorthyFen7943"] = { ["id"] = 7232214866, ["channelid"] = 56 },
+["WiseBriefs7019"] = { ["id"] = 7232214866, ["channelid"] = 56 },
+["PeskyRatio603"] = { ["id"] = 7232214866, ["channelid"] = 56 },
+
+    ["QuerulousIndex9185"] = { ["id"] = 7232214866, ["channelid"] = 57 },
+["GrumpyHalt5187"] = { ["id"] = 7232214866, ["channelid"] = 57 },
+["SquigglyGravel3920"] = { ["id"] = 7232214866, ["channelid"] = 57 },
+["HonorableBenefit5750"] = { ["id"] = 7232214866, ["channelid"] = 57 },
+
+        ["EnchantedNurse8783"] = { ["id"] = 7232214866, ["channelid"] = 58 },
+["AjarCornmeal6246"] = { ["id"] = 7232214866, ["channelid"] = 58 },
+["GrossMood6298"] = { ["id"] = 7232214866, ["channelid"] = 58 },
+["QueasySulfur8701"] = { ["id"] = 7232214866, ["channelid"] = 58 },
 }
 
 
