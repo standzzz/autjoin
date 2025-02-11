@@ -249,10 +249,10 @@ local autojoins = {
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 5710075832, ["channelid"] = 52 },
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 5710075832, ["channelid"] = 52 },
 
-["AverageSenator4035"] = { ["id"] = 94328598, ["channelid"] = 52 },
+["AverageSenator4035"] = { ["id"] = 7411906033, ["channelid"] = 52 },
 ["JaggedColleague6372"] = { ["id"] = 94328598, ["channelid"] = 52 },
-["NauticalPower8998"] = { ["id"] = 3176406197, ["channelid"] = 52 },
-["ElementaryHoof6240"] = { ["id"] = 3176406197, ["channelid"] = 52 },
+["NauticalPower8998"] = { ["id"] = 94328598, ["channelid"] = 52 },
+["ElementaryHoof6240"] = { ["id"] = 1916280686, ["channelid"] = 52 },
 
 ["AshamedApproval2054"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["QuarrelsomeScrim2263"] = { ["id"] = 7232214866, ["channelid"] = 53 },
@@ -262,7 +262,7 @@ local autojoins = {
     ["HonoredStatue5812"] = { ["id"] = 1916280686, ["channelid"] = 54 },
 ["VillainousRayon3985"] = { ["id"] = 1916280686, ["channelid"] = 54 },
 ["LankyStopsign2738"] = { ["id"] = 1916280686, ["channelid"] = 54 },
-["DarkShutdown7950"] = { ["id"] = 1916280686, ["channelid"] = 54 },
+["DarkShutdown7950"] = { ["id"] = 7411906033, ["channelid"] = 54 },
 
     ["HauntingCry4356"] = { ["id"] = 3610423014, ["channelid"] = 55 },
 ["OrderlyPants2833"] = { ["id"] = 3610423014, ["channelid"] = 55 },
