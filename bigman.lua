@@ -203,9 +203,9 @@ local autojoins = {
 ["wasabaseda"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 
 ["ererawer8"] = { ["id"] = 333325231, ["channelid"] = 43 },
-["dsfesdfes30"] = { ["id"] = 333325231, ["channelid"] = 43 },
-["sdfesddfa"] = { ["id"] = 5150638965, ["channelid"] = 43 },
-["dsuyhfg9"] = { ["id"] = 5150638965, ["channelid"] = 43 },
+["dasfaw36"] = { ["id"] = 333325231, ["channelid"] = 43 },
+["asdasffafsw"] = { ["id"] = 5150638965, ["channelid"] = 43 },
+["asdwasdve"] = { ["id"] = 5150638965, ["channelid"] = 43 },
 
 ["UnfitMangrove8263"] = { ["id"] = 40242128, ["channelid"] = 44 },
 ["CanineSidewalk3250"] = { ["id"] = 40242128, ["channelid"] = 44 },
