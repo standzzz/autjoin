@@ -138,12 +138,12 @@ local autojoins = {
     
                  ["basdawss"] = { ["id"] = 1335230271, ["channelid"] = 30 },
     ["fabaswa"] = { ["id"] = 1335230271, ["channelid"] = 30 },
-     ["savbsadwasd"] = { ["id"] = 3637919959, ["channelid"] = 30 },
-    ["absadwawa"] = { ["id"] = 3637919959, ["channelid"] = 30 },
+     ["savbsadwasd"] = { ["id"] = 3932446070, ["channelid"] = 30 },
+    ["absadwawa"] = { ["id"] = 3932446070, ["channelid"] = 30 },
 
-     ["asdwaxcsz"] = { ["id"] = 3637919959, ["channelid"] = 31 },
-    ["baewasds"] = { ["id"] = 3637919959, ["channelid"] = 31 },
-     ["asdawsdawra"] = { ["id"] = 3637919959, ["channelid"] = 31 },
+     ["asdwaxcsz"] = { ["id"] = 3932446070, ["channelid"] = 31 },
+    ["baewasds"] = { ["id"] = 3932446070, ["channelid"] = 31 },
+     ["asdawsdawra"] = { ["id"] = 3932446070, ["channelid"] = 31 },
     ["asdasdwavq"] = { ["id"] = 5706184807, ["channelid"] = 31 },
 
      ["wasbasdsg"] = { ["id"] = 5706184807, ["channelid"] = 32 },
