@@ -74,10 +74,10 @@ local autojoins = {
 ["GrimHeavy4579"] = { ["id"] = 6193458123, ["channelid"] = 9 },
 ["NippyIllness6454"] = { ["id"] = 1873146655, ["channelid"] = 9 },
  
- ["IdleGrandson4303"] = { ["id"] = 1666857435, ["channelid"] = 25 },
- ["AvariciousCaptor5249"] = { ["id"] = 3274223668, ["channelid"] = 25 },
- ["OverdueSail4694"] = { ["id"] = 3274223668, ["channelid"] = 25 },
- ["ThoseAdmire8568"] = { ["id"] = 1666857435, ["channelid"] = 25 },
+ ["dfawdasfw"] = { ["id"] = 1666857435, ["channelid"] = 25 },
+ ["mansgsw"] = { ["id"] = 3274223668, ["channelid"] = 25 },
+ ["adwasdve"] = { ["id"] = 3274223668, ["channelid"] = 25 },
+ ["wasdavba"] = { ["id"] = 1666857435, ["channelid"] = 25 },
     
  ["RichMailman931"] = { ["id"] = 1873146655, ["channelid"] = 24 },
  ["PlumpUtilization1462"] = { ["id"] = 2230361452, ["channelid"] = 24 },
@@ -274,15 +274,15 @@ local autojoins = {
 ["ErtelGocek_424"] = { ["id"] = 7032244128, ["channelid"] = 56 },
 ["SeepNovo_926"] = { ["id"] = 7032244128, ["channelid"] = 56 },
 
-    ["QuerulousIndex9185"] = { ["id"] = 3133705395, ["channelid"] = 57 },
-["GrumpyHalt5187"] = { ["id"] = 3133705395, ["channelid"] = 57 },
-["SquigglyGravel3920"] = { ["id"] = 3133705395, ["channelid"] = 57 },
-["HonorableBenefit5750"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+    ["SheafSorn_645"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+["JoersPezez_354"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+["SeibTress_551"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+["AzouzSeace_601"] = { ["id"] = 3133705395, ["channelid"] = 57 },
 
         ["EnchantedNurse8783"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["AjarCornmeal6246"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["GrossMood6298"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["QueasySulfur8701"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+["aaadsadfg"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+["palssb"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+["spbsdd"] = { ["id"] = 7983665899, ["channelid"] = 58 },
 }
 
 
