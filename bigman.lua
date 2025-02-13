@@ -264,10 +264,10 @@ local autojoins = {
 ["SuggsBonn_757"] = { ["id"] = 1916280686, ["channelid"] = 54 },
 ["DoatyLok_587"] = { ["id"] = 7411906033, ["channelid"] = 54 },
 
-    ["EmamOkolo_398"] = { ["id"] = 3610423014, ["channelid"] = 55 },
-["BalTrees_116"] = { ["id"] = 3610423014, ["channelid"] = 55 },
-["DamiAyyad_287"] = { ["id"] = 3610423014, ["channelid"] = 55 },
-["SilarShaw_237"] = { ["id"] = 3610423014, ["channelid"] = 55 },
+    ["EmamOkolo_398"] = { ["id"] = 13736485, ["channelid"] = 55 },
+["BalTrees_116"] = { ["id"] = 13736485, ["channelid"] = 55 },
+["DamiAyyad_287"] = { ["id"] = 13736485, ["channelid"] = 55 },
+["SilarShaw_237"] = { ["id"] = 13736485, ["channelid"] = 55 },
 
     ["WonnJatho_411"] = { ["id"] = 7496030595, ["channelid"] = 56 },
 ["LinzaParsh_238"] = { ["id"] = 7496030595, ["channelid"] = 56 },
