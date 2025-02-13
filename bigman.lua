@@ -197,10 +197,10 @@ local autojoins = {
 ["sfasfwasw"] = { ["id"] = 7408063438, ["channelid"] = 41 },
 ["sadwavawdsa"] = { ["id"] = 7408063438, ["channelid"] = 41 },
 
-["wasdagvaw"] = { ["id"] = 2816918669, ["channelid"] = 42 },
-["svabaes"] = { ["id"] = 2816918669, ["channelid"] = 42 },
-["wasdagvbaw"] = { ["id"] = 2816918669, ["channelid"] = 42 },
-["wasabaseda"] = { ["id"] = 2816918669, ["channelid"] = 42 },
+["wasdagvaw"] = { ["id"] = 3220444988, ["channelid"] = 42 },
+["svabaes"] = { ["id"] = 3220444988, ["channelid"] = 42 },
+["wasdagvbaw"] = { ["id"] = 3220444988, ["channelid"] = 42 },
+["wasabaseda"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 
 ["ererawer8"] = { ["id"] = 333325231, ["channelid"] = 43 },
 ["dsfesdfes30"] = { ["id"] = 333325231, ["channelid"] = 43 },
@@ -217,8 +217,8 @@ local autojoins = {
 ["dasfdafvaw"] = { ["id"] = 3919578466, ["channelid"] = 45 },
 ["OriginalRaft6258"] = { ["id"] = 3919578466, ["channelid"] = 45 },
 
-["TalkativeLinkage8343"] = { ["id"] = 2816918669, ["channelid"] = 46 },
-["SubduedOutlet3970"] = { ["id"] = 2816918669, ["channelid"] = 46 },
+["TalkativeLinkage8343"] = { ["id"] = 3220444988, ["channelid"] = 46 },
+["SubduedOutlet3970"] = { ["id"] = 3220444988, ["channelid"] = 46 },
 ["MortifiedPard1607"] = { ["id"] = 3656453975, ["channelid"] = 46 },
 ["TallMonocle6487"] = { ["id"] = 3656453975, ["channelid"] = 46 },
 
