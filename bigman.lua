@@ -242,15 +242,15 @@ local autojoins = {
 ["wasdavsd"] = { ["id"] = 5137561787, ["channelid"] = 50 },
 ["wasdasvad"] = { ["id"] = 5137561787, ["channelid"] = 50 },
 
-["dsdavad"] = { ["id"] = 5710075832, ["channelid"] = 51 },
-["StraightDial3978"] = { ["id"] = 5710075832, ["channelid"] = 51 },
-["bvaadw"] = { ["id"] = 5710075832, ["channelid"] = 51 },
-["wasdasadv"] = { ["id"] = 5710075832, ["channelid"] = 51 },
-    ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 5710075832, ["channelid"] = 52 },
-    ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 5710075832, ["channelid"] = 52 },
+["sadwasv2"] = { ["id"] = 5710075832, ["channelid"] = 51 },
+["bnshseda"] = { ["id"] = 5710075832, ["channelid"] = 51 },
+["bawe2sad"] = { ["id"] = 5710075832, ["channelid"] = 51 },
+["vsawedsad2"] = { ["id"] = 5710075832, ["channelid"] = 51 },
+    ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 7411906033, ["channelid"] = 52 },
+    ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 94328598, ["channelid"] = 52 },
 
-["LibinKlitz_574"] = { ["id"] = 7411906033, ["channelid"] = 52 },
-["Bunastast1243"] = { ["id"] = 94328598, ["channelid"] = 52 },
+["LibinKlitz_574"] = { ["id"] = 5710075832, ["channelid"] = 52 },
+["Bunastast1243"] = { ["id"] = 5710075832, ["channelid"] = 52 },
 ["Hallo9844Gulgd"] = { ["id"] = 94328598, ["channelid"] = 52 },
 ["BananJoe12393"] = { ["id"] = 1916280686, ["channelid"] = 52 },
 
