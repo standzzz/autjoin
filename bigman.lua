@@ -101,10 +101,10 @@ local autojoins = {
 ["TalkativeAnklet4938"] = { ["id"] = 563752484, ["channelid"] = 6 },
 ["PlumpDiscount5465"] = { ["id"] = 563752484, ["channelid"] = 6 },
 
-  ["uqumtwlduwb3glnlmvvw"] = { ["id"] = 7906927870, ["channelid"] = 20 },
- ["iycaivsx35q6xfw22fo1:"] = { ["id"] = 7906927870, ["channelid"] = 20 },
- ["vdlyr878x4ay2md37m6t"] = { ["id"] = 7906927870, ["channelid"] = 20 },
-    ["myghity1bk8qmemh9vt7"] = { ["id"] = 7906927870, ["channelid"] = 20 },
+  ["uqumtwlduwb3glnlmvvw"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+ ["iycaivsx35q6xfw22fo1:"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+ ["vdlyr878x4ay2md37m6t"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+    ["myghity1bk8qmemh9vt7"] = { ["id"] = 8007007850, ["channelid"] = 20 },
 
 ["wafsfasgvbaw"] = { ["id"] = 1150927225, ["channelid"] = 5 },
 ["sfabahsf"] = { ["id"] = 1150927225, ["channelid"] = 5 },
