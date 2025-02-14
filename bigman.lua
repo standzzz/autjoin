@@ -252,16 +252,16 @@ local autojoins = {
 ["LibinKlitz_574"] = { ["id"] = 5710075832, ["channelid"] = 52 },
 ["Bunastast1243"] = { ["id"] = 5710075832, ["channelid"] = 52 },
 ["Hallo9844Gulgd"] = { ["id"] = 94328598, ["channelid"] = 52 },
-["BananJoe12393"] = { ["id"] = 1916280686, ["channelid"] = 52 },
+["BananJoe12393"] = { ["id"] = 3831527099, ["channelid"] = 52 },
 
 ["MordiGraig_195"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["PolysZhou_145"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["WaizPenza_766"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["rasselbande8142    "] = { ["id"] = 7232214866, ["channelid"] = 53 },
 
-    ["HoaOoton_375"] = { ["id"] = 1916280686, ["channelid"] = 54 },
-["VillainousRayon3985"] = { ["id"] = 1916280686, ["channelid"] = 54 },
-["SuggsBonn_757"] = { ["id"] = 1916280686, ["channelid"] = 54 },
+    ["HoaOoton_375"] = { ["id"] = 3831527099, ["channelid"] = 54 },
+["VillainousRayon3985"] = { ["id"] = 3831527099, ["channelid"] = 54 },
+["SuggsBonn_757"] = { ["id"] = 3831527099, ["channelid"] = 54 },
 ["DoatyLok_587"] = { ["id"] = 7411906033, ["channelid"] = 54 },
 
     ["EmamOkolo_398"] = { ["id"] = 13736485, ["channelid"] = 55 },
