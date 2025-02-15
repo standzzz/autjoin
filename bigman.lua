@@ -12,15 +12,15 @@ local autojoins = {
 ["asfdasfam"] = { ["id"] = 48065046, ["channelid"] = 26 },
 ["asfsafvv"] = { ["id"] = 48065046, ["channelid"] = 26 },
 
-["sabvavbagb"] = { ["id"] = 7806083378, ["channelid"] = 21 },
-["abashhfh"] = { ["id"] = 7028520353, ["channelid"] = 21 },
-["asvbagawa"] = { ["id"] = 7783388620, ["channelid"] = 21 },
-["vabsarfsaf"] = { ["id"] = 7783388620, ["channelid"] = 21 },
+["wfsabvagbw"] = { ["id"] = 7806083378, ["channelid"] = 21 },
+["asdwafasva"] = { ["id"] = 7028520353, ["channelid"] = 21 },
+["wdsavafgwa"] = { ["id"] = 7783388620, ["channelid"] = 21 },
+["safabafw"] = { ["id"] = 7783388620, ["channelid"] = 21 },
 
-["fasvbsaw"] = { ["id"] = 1321454129, ["channelid"] = 22 },
-["hsdhsnssa"] = { ["id"] = 1321454129, ["channelid"] = 22 },
-["fwafgsagaw"] = { ["id"] = 1321454129, ["channelid"] = 22 },
-["vasbagbag"] = { ["id"] = 1321454129, ["channelid"] = 22 },
+["wfsagwga"] = { ["id"] = 1321454129, ["channelid"] = 22 },
+["wasgawff"] = { ["id"] = 1321454129, ["channelid"] = 22 },
+["dwadsfwasfs"] = { ["id"] = 1321454129, ["channelid"] = 22 },
+["fwasfgfsa"] = { ["id"] = 1321454129, ["channelid"] = 22 },
     
 ["vbasfadfwa"] = { ["id"] = 1321454129, ["channelid"] = 23 },
 ["wfasvafwa"] = { ["id"] = 89592580, ["channelid"] = 23 },
@@ -58,8 +58,8 @@ local autojoins = {
 ["PlayfulEnclave712"] = { ["id"] = 888008, ["channelid"] = 13 },   
 
 ["sakofana"] = { ["id"] = 5805710750, ["channelid"] = 14 },
-["fasfavbafa"] = { ["id"] = 5805710750, ["channelid"] = 14 },
-["fasfasgvba"] = { ["id"] = 5805710750, ["channelid"] = 14 },
+["wasdwasafbv"] = { ["id"] = 5805710750, ["channelid"] = 14 },
+["sdawavaw"] = { ["id"] = 5805710750, ["channelid"] = 14 },
 ["ewfasfaa1"] = { ["id"] = 5805710750, ["channelid"] = 14 },
  
 
@@ -74,10 +74,10 @@ local autojoins = {
 ["GrimHeavy4579"] = { ["id"] = 6193458123, ["channelid"] = 9 },
 ["NippyIllness6454"] = { ["id"] = 1873146655, ["channelid"] = 9 },
  
- ["sgdsagaf"] = { ["id"] = 1666857435, ["channelid"] = 25 },
+ ["wdsadwasfs"] = { ["id"] = 1666857435, ["channelid"] = 25 },
  ["gwasgabsaa"] = { ["id"] = 3274223668, ["channelid"] = 25 },
  ["gwagasgfa"] = { ["id"] = 3274223668, ["channelid"] = 25 },
- ["wasdavba"] = { ["id"] = 1666857435, ["channelid"] = 25 },
+ ["wasdgasfaw"] = { ["id"] = 1666857435, ["channelid"] = 25 },
     
  ["bagagawsa"] = { ["id"] = 1873146655, ["channelid"] = 24 },
  ["fwafsagasad"] = { ["id"] = 2230361452, ["channelid"] = 24 },
@@ -91,20 +91,20 @@ local autojoins = {
 ["SpeedySickness2448"] = { ["id"] = 4712125701, ["channelid"] = 8 },
 
 
- ["basdfajh"] = { ["id"] = 1378790653, ["channelid"] = 27 },
- ["sfabasdasda"] = { ["id"] = 3056674776, ["channelid"] = 27 },
- ["asabsada"] = { ["id"] = 1378790653, ["channelid"] = 27 },
-  ["sfabasdasd"] = { ["id"] = 3232893368, ["channelid"] = 27 },
+ ["wdsadwaafa"] = { ["id"] = 1378790653, ["channelid"] = 27 },
+ ["dwasdvvbqa"] = { ["id"] = 3056674776, ["channelid"] = 27 },
+ ["wdasgaws"] = { ["id"] = 1378790653, ["channelid"] = 27 },
+  ["wdsadwaga"] = { ["id"] = 3232893368, ["channelid"] = 27 },
 
 ["WanDialect2424"] = { ["id"] = 7296606467, ["channelid"] = 6 },
 ["VibrantResult9426"] = { ["id"] = 7296606467, ["channelid"] = 6 },
 ["TalkativeAnklet4938"] = { ["id"] = 563752484, ["channelid"] = 6 },
 ["PlumpDiscount5465"] = { ["id"] = 563752484, ["channelid"] = 6 },
 
-  ["ssavagbsaw"] = { ["id"] = 8007007850, ["channelid"] = 20 },
- ["avascsafa:"] = { ["id"] = 8007007850, ["channelid"] = 20 },
- ["wgabsafa"] = { ["id"] = 8007007850, ["channelid"] = 20 },
-    ["gwagasgasf"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+  ["wdsafawgsw"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+ ["wfasabawe:"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+ ["wasfafgwga"] = { ["id"] = 8007007850, ["channelid"] = 20 },
+    ["sdwabvaw"] = { ["id"] = 8007007850, ["channelid"] = 20 },
 
 ["wafsfasgvbaw"] = { ["id"] = 1150927225, ["channelid"] = 5 },
 ["sfabahsf"] = { ["id"] = 1150927225, ["channelid"] = 5 },
@@ -126,9 +126,9 @@ local autojoins = {
      ["IdealWidget6143"] = { ["id"] = 7733522997, ["channelid"] = 7 },
     ["RobustCongress6771"] = { ["id"] = 7733522997, ["channelid"] = 7 },
 
-         ["vbasdasds"] = { ["id"] = 479135621, ["channelid"] = 28 },
+         ["wasdwasfasw"] = { ["id"] = 479135621, ["channelid"] = 28 },
     ["wfsgvagafa"] = { ["id"] = 479135621, ["channelid"] = 28 },
-     ["palsnffa"] = { ["id"] = 479135621, ["channelid"] = 28 },
+     ["wasdagawsa"] = { ["id"] = 479135621, ["channelid"] = 28 },
     ["dafawsfafba"] = { ["id"] = 7567735976, ["channelid"] = 28 },
 
              ["safwasdfa"] = { ["id"] = 7408063438, ["channelid"] = 29 },
@@ -136,19 +136,19 @@ local autojoins = {
      ["fsavbabaw"] = { ["id"] = 7567735976, ["channelid"] = 29 },
     ["fsafvafwaga"] = { ["id"] = 7872269103, ["channelid"] = 29 },
     
-                 ["basdawss"] = { ["id"] = 1335230271, ["channelid"] = 30 },
+                 ["wasdwasfsas"] = { ["id"] = 1335230271, ["channelid"] = 30 },
     ["fsafghdsa"] = { ["id"] = 1335230271, ["channelid"] = 30 },
-     ["savbsadwasd"] = { ["id"] = 3932446070, ["channelid"] = 30 },
-    ["absadwawa"] = { ["id"] = 3932446070, ["channelid"] = 30 },
+     ["asfawgasw"] = { ["id"] = 3932446070, ["channelid"] = 30 },
+    ["dwasdwagaw"] = { ["id"] = 3932446070, ["channelid"] = 30 },
 
      ["asdwaxcsz"] = { ["id"] = 3932446070, ["channelid"] = 31 },
     ["baewasds"] = { ["id"] = 3932446070, ["channelid"] = 31 },
      ["asdawsdawra"] = { ["id"] = 3932446070, ["channelid"] = 31 },
     ["asdasdwavq"] = { ["id"] = 5706184807, ["channelid"] = 31 },
 
-     ["wasbasdsg"] = { ["id"] = 5706184807, ["channelid"] = 32 },
-    ["fasfasdfass"] = { ["id"] = 5706184807, ["channelid"] = 32 },
-     ["sfaabaas"] = { ["id"] = 5706184807, ["channelid"] = 32 },
+     ["dabawfw"] = { ["id"] = 5706184807, ["channelid"] = 32 },
+    ["sffwafasa"] = { ["id"] = 5706184807, ["channelid"] = 32 },
+     ["wdasdwfwads"] = { ["id"] = 5706184807, ["channelid"] = 32 },
     ["ssaaffab"] = { ["id"] = 5706184807, ["channelid"] = 32 },
 
          ["plaufhgsbc"] = { ["id"] = 219775985, ["channelid"] = 33 },
@@ -158,12 +158,12 @@ local autojoins = {
 
      ["sabagfas"] = { ["id"] = 219775985, ["channelid"] = 34 },
     ["safabga"] = { ["id"] = 219775985, ["channelid"] = 34 },
-     ["safasaga1"] = { ["id"] = 3059112632, ["channelid"] = 34 },
+     ["qasdwafas"] = { ["id"] = 3059112632, ["channelid"] = 34 },
     ["sfabadsad"] = { ["id"] = 3059112632, ["channelid"] = 34 },
 
     
-     ["sfabsag"] = { ["id"] = 25302894, ["channelid"] = 35 },
-    ["saagava"] = { ["id"] = 25302894, ["channelid"] = 35 },
+     ["dasdwasfawf"] = { ["id"] = 25302894, ["channelid"] = 35 },
+    ["asdwasfwb"] = { ["id"] = 25302894, ["channelid"] = 35 },
      ["svafawfd"] = { ["id"] = 25302894, ["channelid"] = 35 },
     ["wgvaabad"] = { ["id"] = 25302894, ["channelid"] = 35 },
 
@@ -172,40 +172,40 @@ local autojoins = {
      ["sfafafwasf"] = { ["id"] = 1376998674, ["channelid"] = 36 },
     ["asavaafg"] = { ["id"] = 1376998674, ["channelid"] = 36 },
 
-         ["baewrafa"] = { ["id"] = 420147189, ["channelid"] = 37 },
-    ["psafaw"] = { ["id"] = 420147189, ["channelid"] = 37 },
-     ["wafsagva"] = { ["id"] = 2477434873, ["channelid"] = 37 },
-    ["hasdfafw"] = { ["id"] = 2477434873, ["channelid"] = 37 },
+         ["dwasgwasds"] = { ["id"] = 420147189, ["channelid"] = 37 },
+    ["gagwasda"] = { ["id"] = 420147189, ["channelid"] = 37 },
+     ["wdasagwaf"] = { ["id"] = 2477434873, ["channelid"] = 37 },
+    ["sadwagasds"] = { ["id"] = 2477434873, ["channelid"] = 37 },
 
 ["dsfsbdsgse"] = { ["id"] = 5348528309, ["channelid"] = 38 },
-["dwasdwaop"] = { ["id"] = 5348528309, ["channelid"] = 38 },
-["wasfavass"] = { ["id"] = 5348528309, ["channelid"] = 38 },
-["svavfwa"] = { ["id"] = 5348528309, ["channelid"] = 38 },
+["wasdgbagw"] = { ["id"] = 5348528309, ["channelid"] = 38 },
+["sadwasdadfwas"] = { ["id"] = 5348528309, ["channelid"] = 38 },
+["dsadwdsava"] = { ["id"] = 5348528309, ["channelid"] = 38 },
 
-["wasda23v"] = { ["id"] = 5348528309, ["channelid"] = 39 },
-["afsfwsadaf"] = { ["id"] = 5348528309, ["channelid"] = 39 },
-["sadfwafsafaw"] = { ["id"] = 3678157196, ["channelid"] = 39 },
-["sdfadfsafafs"] = { ["id"] = 3678157196, ["channelid"] = 39 },
+["wasdwasfawfg"] = { ["id"] = 5348528309, ["channelid"] = 39 },
+["dwassgaw"] = { ["id"] = 5348528309, ["channelid"] = 39 },
+["asdwasfafwa"] = { ["id"] = 3678157196, ["channelid"] = 39 },
+["wdsadavaw"] = { ["id"] = 3678157196, ["channelid"] = 39 },
 
 ["asfdwafsafa"] = { ["id"] = 3678157196, ["channelid"] = 40 },
-["dwasdavba"] = { ["id"] = 3678157196, ["channelid"] = 40 },
-["wafsfabaw"] = { ["id"] = 3678157196, ["channelid"] = 40 },
+["psjdadw"] = { ["id"] = 3678157196, ["channelid"] = 40 },
+["wsadwb"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 ["sfwasfabawa"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 
-["fasvabaw"] = { ["id"] = 24113668, ["channelid"] = 41 },
+["wdfasfavw"] = { ["id"] = 24113668, ["channelid"] = 41 },
 ["fdsfafws"] = { ["id"] = 24113668, ["channelid"] = 41 },
 ["wafsfwasfg"] = { ["id"] = 7408063438, ["channelid"] = 41 },
-["sadwavawdsa"] = { ["id"] = 7408063438, ["channelid"] = 41 },
+["dwasdavwas"] = { ["id"] = 7408063438, ["channelid"] = 41 },
 
 ["safavawd"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 ["wafsvaf"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 ["fwasbafa"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 ["fwavgaw"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 
-["ererawer8"] = { ["id"] = 333325231, ["channelid"] = 43 },
-["dasfaw36"] = { ["id"] = 333325231, ["channelid"] = 43 },
-["asdasffafsw"] = { ["id"] = 5150638965, ["channelid"] = 43 },
-["asdwasdve"] = { ["id"] = 5150638965, ["channelid"] = 43 },
+["dwasdvaf"] = { ["id"] = 333325231, ["channelid"] = 43 },
+["fwasfasaf"] = { ["id"] = 333325231, ["channelid"] = 43 },
+["dasdfafbs"] = { ["id"] = 5150638965, ["channelid"] = 43 },
+["dasaavas"] = { ["id"] = 5150638965, ["channelid"] = 43 },
 
 ["UnfitMangrove8263"] = { ["id"] = 40242128, ["channelid"] = 44 },
 ["bawdsawd"] = { ["id"] = 40242128, ["channelid"] = 44 },
@@ -217,7 +217,7 @@ local autojoins = {
 ["wfasfwasva"] = { ["id"] = 3919578466, ["channelid"] = 45 },
 ["wfasfwaad"] = { ["id"] = 3919578466, ["channelid"] = 45 },
 
-["wfasdfasfwa"] = { ["id"] = 3220444988, ["channelid"] = 46 },
+["safafasb"] = { ["id"] = 3220444988, ["channelid"] = 46 },
 ["fsavafvas"] = { ["id"] = 3220444988, ["channelid"] = 46 },
 ["dsavasdada"] = { ["id"] = 3656453975, ["channelid"] = 46 },
 ["dasdawsdv"] = { ["id"] = 3656453975, ["channelid"] = 46 },
@@ -229,7 +229,7 @@ local autojoins = {
 
 ["fasvawdsa"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["fwafsagvbsaw"] = { ["id"] = 3296124832, ["channelid"] = 48     },
-["fawsfsava"] = { ["id"] = 3296124832, ["channelid"] = 48 },
+["fadgbdw"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["asdsaacf"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 
 ["asdasdsaddv"] = { ["id"] = 3296124832, ["channelid"] = 49 },
@@ -237,7 +237,7 @@ local autojoins = {
 ["lakmngdd"] = { ["id"] = 5137561787, ["channelid"] = 49 },
 ["dasdasdvvs"] = { ["id"] = 5137561787, ["channelid"] = 49 },
 
-["asdwasssdc"] = { ["id"] = 5137561787, ["channelid"] = 50 },
+["asdsavadwa"] = { ["id"] = 5137561787, ["channelid"] = 50 },
 ["wasdvxads"] = { ["id"] = 5137561787, ["channelid"] = 50 },
 ["wasdavsd"] = { ["id"] = 5137561787, ["channelid"] = 50 },
 ["dasvawa"] = { ["id"] = 5137561787, ["channelid"] = 50 },
@@ -249,40 +249,40 @@ local autojoins = {
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 7411906033, ["channelid"] = 52 },
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 94328598, ["channelid"] = 52 },
 
-["asvasdwqds"] = { ["id"] = 5710075832, ["channelid"] = 52 },
-["wdasvsasdsa"] = { ["id"] = 5710075832, ["channelid"] = 52 },
-["Hallo9844Gulgd"] = { ["id"] = 94328598, ["channelid"] = 52 },
+["asdavadsw"] = { ["id"] = 5710075832, ["channelid"] = 52 },
+["safcasad"] = { ["id"] = 5710075832, ["channelid"] = 52 },
+["gasdbvadw"] = { ["id"] = 94328598, ["channelid"] = 52 },
 ["sfasvafwa"] = { ["id"] = 3831527099, ["channelid"] = 52 },
 
 ["avasdaws"] = { ["id"] = 7232214866, ["channelid"] = 53 },
-["PolysZhou_145"] = { ["id"] = 7232214866, ["channelid"] = 53 },
+["sdavadw"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["awfsfavawdf"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["dwavasd"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 
     ["vasdadwe"] = { ["id"] = 3831527099, ["channelid"] = 54 },
-["badswafs"] = { ["id"] = 3831527099, ["channelid"] = 54 },
-["wdasfwasfwas"] = { ["id"] = 3831527099, ["channelid"] = 54 },
-["sfabvawdfa"] = { ["id"] = 7411906033, ["channelid"] = 54 },
+["saacava"] = { ["id"] = 3831527099, ["channelid"] = 54 },
+["sadsavafw"] = { ["id"] = 3831527099, ["channelid"] = 54 },
+["sfasvaw"] = { ["id"] = 7411906033, ["channelid"] = 54 },
 
-    ["EmamOkolo_398"] = { ["id"] = 13736485, ["channelid"] = 55 },
-["sdfafvaw"] = { ["id"] = 13736485, ["channelid"] = 55 },
-["vasdwafs"] = { ["id"] = 13736485, ["channelid"] = 55 },
-["SilarShaw_237"] = { ["id"] = 13736485, ["channelid"] = 55 },
+    ["asvadwfa"] = { ["id"] = 13736485, ["channelid"] = 55 },
+["sdwasadws"] = { ["id"] = 13736485, ["channelid"] = 55 },
+["wdsaavawd"] = { ["id"] = 13736485, ["channelid"] = 55 },
+["dwsadwafaw"] = { ["id"] = 13736485, ["channelid"] = 55 },
 
-    ["sacfacafvadf"] = { ["id"] = 7496030595, ["channelid"] = 56 },
-["fasfavawdf"] = { ["id"] = 7496030595, ["channelid"] = 56 },
-["dafawsfab"] = { ["id"] = 7032244128, ["channelid"] = 56 },
-["vawdsafg"] = { ["id"] = 7032244128, ["channelid"] = 56 },
+    ["dsadawfvad"] = { ["id"] = 7496030595, ["channelid"] = 56 },
+["sdaavawd"] = { ["id"] = 7496030595, ["channelid"] = 56 },
+["wdsadasvadw"] = { ["id"] = 7032244128, ["channelid"] = 56 },
+["wdsadwasafa"] = { ["id"] = 7032244128, ["channelid"] = 56 },
 
-    ["SheafSorn_645"] = { ["id"] = 3133705395, ["channelid"] = 57 },
-["JoersPezez_354"] = { ["id"] = 3133705395, ["channelid"] = 57 },
-["SeibTress_551"] = { ["id"] = 3133705395, ["channelid"] = 57 },
-["AzouzSeace_601"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+    ["wdsavawfs"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+["wasvavwf"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+["sadswavqa"] = { ["id"] = 3133705395, ["channelid"] = 57 },
+["wdabsdaw"] = { ["id"] = 3133705395, ["channelid"] = 57 },
 
-        ["safwavaf"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["safvafabv"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["sfavafwa"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["sacfacas"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+        ["wasacaavb"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+["wasfwegasf"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+["dwasdavaw"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+["sadfwagvagb"] = { ["id"] = 7983665899, ["channelid"] = 58 },
 }
 
 
