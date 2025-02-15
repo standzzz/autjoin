@@ -283,6 +283,26 @@ local autojoins = {
 ["wasfwegasf"] = { ["id"] = 7983665899, ["channelid"] = 58 },
 ["dwasdavaw"] = { ["id"] = 7983665899, ["channelid"] = 58 },
 ["sadfwagvagb"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+
+            ["awsdwasvawe"] = { ["id"] = 3860563867, ["channelid"] = 59 },
+["wasdawvawfq"] = { ["id"] = 7842166002, ["channelid"] = 59 },
+["sadwagawa"] = { ["id"] = 7842166002, ["channelid"] = 59 },
+["dwagvawdse"] = { ["id"] = 2496024, ["channelid"] = 59 },
+
+            ["awsdwasvaw"] = { ["id"] = 2496024, ["channelid"] = 60 },
+["dwagvawds"] = { ["id"] = 2496024, ["channelid"] = 60 },
+["wasdawvawf"] = { ["id"] = 2496024, ["channelid"] = 60 },
+["sadwagaws"] = { ["id"] = 750758114, ["channelid"] = 60 },
+
+            ["awsdwasvaws"] = { ["id"] = 750758114, ["channelid"] = 61 },
+["dwagvawdsb"] = { ["id"] = 750758114, ["channelid"] = 61 },
+["sadwagawse"] = { ["id"] = 750758114, ["channelid"] = 61 },
+["wasdawvawfa"] = { ["id"] = 750758114, ["channelid"] = 61 },
+
+            ["dwagvawd"] = { ["id"] = 750758114, ["channelid"] = 62 },
+["sadwagawsq"] = { ["id"] = 243872968, ["channelid"] = 62 },
+["wasdawvawfw"] = { ["id"] = 243872968, ["channelid"] = 62 },
+["awsdwasvawq"] = { ["id"] = 7408063438, ["channelid"] = 62 },
 }
 
 
