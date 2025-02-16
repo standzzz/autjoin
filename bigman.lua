@@ -108,8 +108,8 @@ local autojoins = {
 
 ["wafsfasgvbaw"] = { ["id"] = 1150927225, ["channelid"] = 5 },
 ["sfabahsf"] = { ["id"] = 1150927225, ["channelid"] = 5 },
-["wasafvabaw"] = { ["id"] = 3465445792, ["channelid"] = 5 },
-["wasdafvawf"] = { ["id"] = 3465445792, ["channelid"] = 5 },
+["wasafvabaw"] = { ["id"] = 1205092897, ["channelid"] = 5 },
+["wasdafvawf"] = { ["id"] = 1205092897, ["channelid"] = 5 },
 
     ["bgasfasda"] = { ["id"] = 5633056993, ["channelid"] = 19 },
     ["vavabgwa"] = { ["id"] = 5633056993, ["channelid"] = 19 },
