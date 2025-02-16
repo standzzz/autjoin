@@ -279,10 +279,10 @@ local autojoins = {
 ["sadswavqa"] = { ["id"] = 3133705395, ["channelid"] = 57 },
 ["wdabsdaw"] = { ["id"] = 3133705395, ["channelid"] = 57 },
 
-        ["wasacaavb"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["wasfwegasf"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["dwasdavaw"] = { ["id"] = 7983665899, ["channelid"] = 58 },
-["sadfwagvagb"] = { ["id"] = 7983665899, ["channelid"] = 58 },
+        ["wasacaavb"] = { ["id"] = 7406546950, ["channelid"] = 58 },
+["wasfwegasf"] = { ["id"] = 7406546950, ["channelid"] = 58 },
+["dwasdavaw"] = { ["id"] = 7406546950, ["channelid"] = 58 },
+["sadfwagvagb"] = { ["id"] = 7406546950, ["channelid"] = 58 },
 
             ["awsdwasvawe"] = { ["id"] = 3860563867, ["channelid"] = 59 },
 ["wasdawvawfq"] = { ["id"] = 7842166002, ["channelid"] = 59 },
