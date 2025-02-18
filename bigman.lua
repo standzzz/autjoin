@@ -420,7 +420,7 @@ local autojoins = {
 ["zxcasdswa"] = { ["id"] = 48065046, ["channelid"] = 47 },
 ["sadasdasb37"] = { ["id"] = 48065046, ["channelid"] = 47 },
 ["fasvawdsa"] = { ["id"] = 48065046, ["channelid"] = 48 },
-["fwafsagvbsaw"] = { ["id"] = 48065046, ["channelid"] = 48     },
+["fwafsagvbsaw"] = { ["id"] = 48065046, ["channelid"] = 48},
 ["fadgbdw"] = { ["id"] = 48065046, ["channelid"] = 48 },
 ["asdsaacf"] = { ["id"] = 48065046, ["channelid"] = 48 },
 ["asdasdsaddv"] = { ["id"] = 48065046, ["channelid"] = 49 },
