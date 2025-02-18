@@ -318,7 +318,7 @@ local autojoins = {
 ["zxcasdswa"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 ["sadasdasb37"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 ["fasvawdsa"] = { ["id"] = 3296124832, ["channelid"] = 48 },
-["fwafsagvbsaw"] = { ["id"] = 3296124832, ["channelid"] = 48     },
+["fwafsagvbsaw"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["fadgbdw"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["asdsaacf"] = { ["id"] = 3296124832, ["channelid"] = 48 },
 ["asdasdsaddv"] = { ["id"] = 3296124832, ["channelid"] = 49 },
