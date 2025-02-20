@@ -227,10 +227,10 @@ local autojoins = {
 ["NOTWORKING"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 ["NOTWORKING"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 
-["absencetp362"] = { ["id"] = 2872866886, ["channelid"] = 48 },
-["noveltylicenses754"] = { ["id"] = 3678157196, ["channelid"] = 48     },
-["fooflower893"] = { ["id"] = 3678157196, ["channelid"] = 48 },
-["dealtcut215"] = { ["id"] = 3678157196, ["channelid"] = 48 },
+["absencetp362"] = { ["id"] = 48065046, ["channelid"] = 48 },
+["noveltylicenses754"] = { ["id"] = 48065046, ["channelid"] = 48     },
+["fooflower893"] = { ["id"] = 48065046, ["channelid"] = 48 },
+["dealtcut215"] = { ["id"] = 48065046, ["channelid"] = 48 },
 
 ["GONE"] = { ["id"] = 3296124832, ["channelid"] = 49 },
 ["GONE"] = { ["id"] = 3296124832, ["channelid"] = 49 },
@@ -264,12 +264,12 @@ local autojoins = {
 ["actcb380"] = { ["id"] = 7232214866, ["channelid"] = 54 },
 ["vesselsboys650"] = { ["id"] = 48065046, ["channelid"] = 54 },
 
-    ["robertdietary867"] = { ["id"] = 48065046, ["channelid"] = 55 },
-["libsteaches685"] = { ["id"] = 48065046, ["channelid"] = 55 },
-["functionalitypg951"] = { ["id"] = 48065046, ["channelid"] = 55 },
-["bladesceiling452"] = { ["id"] = 48065046, ["channelid"] = 55 },
+    ["robertdietary867"] = { ["id"] = 2872866886, ["channelid"] = 55 },
+["libsteaches685"] = { ["id"] = 3678157196, ["channelid"] = 55 },
+["functionalitypg951"] = { ["id"] = 3678157196, ["channelid"] = 55 },
+["bladesceiling452"] = { ["id"] = 3678157196, ["channelid"] = 55 },
 
-    ["diningfate383"] = { ["id"] = 4756084387, ["channelid"] = 56 },
+    ["townnat237"] = { ["id"] = 4756084387, ["channelid"] = 56 },
 ["auburnfe625"] = { ["id"] = 4756084387, ["channelid"] = 56 },
 ["testsmolecules617"] = { ["id"] = 413309, ["channelid"] = 56 },
 ["oncebabies133"] = { ["id"] = 413309, ["channelid"] = 56 },
