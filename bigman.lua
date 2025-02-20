@@ -269,10 +269,10 @@ local autojoins = {
 ["functionalitypg951"] = { ["id"] = 48065046, ["channelid"] = 55 },
 ["bladesceiling452"] = { ["id"] = 48065046, ["channelid"] = 55 },
 
-    ["diningfate383"] = { ["id"] = 48065046, ["channelid"] = 56 },
-["auburnfe625"] = { ["id"] = 48065046, ["channelid"] = 56 },
-["testsmolecules617"] = { ["id"] = 48065046, ["channelid"] = 56 },
-["oncebabies133"] = { ["id"] = 48065046, ["channelid"] = 56 },
+    ["diningfate383"] = { ["id"] = 413309, ["channelid"] = 56 },
+["auburnfe625"] = { ["id"] = 413309, ["channelid"] = 56 },
+["testsmolecules617"] = { ["id"] = 413309, ["channelid"] = 56 },
+["oncebabies133"] = { ["id"] = 413309, ["channelid"] = 56 },
 
     ["SheafSorn_645"] = { ["id"] = 3133705395, ["channelid"] = 57 },
 ["JoersPezez_354"] = { ["id"] = 3133705395, ["channelid"] = 57 },
