@@ -259,9 +259,9 @@ local autojoins = {
 ["NOT WORKING"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["NOT WORKING"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 
-    ["complexityother457"] = { ["id"] = 48065046, ["channelid"] = 54 },
-["elementspackage622"] = { ["id"] = 48065046, ["channelid"] = 54 },
-["actcb380"] = { ["id"] = 48065046, ["channelid"] = 54 },
+    ["complexityother457"] = { ["id"] = 2967199151, ["channelid"] = 54 },
+["elementspackage622"] = { ["id"] = 7232214866, ["channelid"] = 54 },
+["actcb380"] = { ["id"] = 7232214866, ["channelid"] = 54 },
 ["vesselsboys650"] = { ["id"] = 48065046, ["channelid"] = 54 },
 
     ["robertdietary867"] = { ["id"] = 48065046, ["channelid"] = 55 },
