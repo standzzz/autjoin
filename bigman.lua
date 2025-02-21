@@ -228,9 +228,9 @@ local autojoins = {
 ["NOTWORKING"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 
 ["absencetp362"] = { ["id"] = 413309, ["channelid"] = 48 },
-["noveltylicenses754"] = { ["id"] = 413309, ["channelid"] = 48     },
-["fooflower893"] = { ["id"] = 413309, ["channelid"] = 48 },
-["dealtcut215"] = { ["id"] = 413309, ["channelid"] = 48 },
+["noveltylicenses754"] = { ["id"] = 7232214866, ["channelid"] = 48     },
+["fooflower893"] = { ["id"] = 7232214866, ["channelid"] = 48 },
+["dealtcut215"] = { ["id"] = 2967199151, ["channelid"] = 48 },
 
 ["GONE"] = { ["id"] = 3296124832, ["channelid"] = 49 },
 ["GONE"] = { ["id"] = 3296124832, ["channelid"] = 49 },
@@ -259,9 +259,9 @@ local autojoins = {
 ["NOT WORKING"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["NOT WORKING"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 
-    ["complexityother457"] = { ["id"] = 2967199151, ["channelid"] = 54 },
-["carolinametallica191"] = { ["id"] = 7232214866, ["channelid"] = 54 },
-["levelslink778"] = { ["id"] = 7232214866, ["channelid"] = 54 },
+    ["complexityother457"] = { ["id"] = 48065046, ["channelid"] = 54 },
+["carolinametallica191"] = { ["id"] = 48065046, ["channelid"] = 54 },
+["levelslink778"] = { ["id"] = 48065046, ["channelid"] = 54 },
 ["vesselsboys650"] = { ["id"] = 48065046, ["channelid"] = 54 },
 
     ["infolu729"] = { ["id"] = 2872866886, ["channelid"] = 55 },
