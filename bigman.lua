@@ -274,10 +274,10 @@ local autojoins = {
 ["testsmolecules617"] = { ["id"] = 48065046, ["channelid"] = 56 },
 ["oncebabies133"] = { ["id"] = 48065046, ["channelid"] = 56 },
 
-    ["bluetoothlistings876"] = { ["id"] = 48065046, ["channelid"] = 57 },
-["bringsburns249"] = { ["id"] = 48065046, ["channelid"] = 57 },
-["cpsurface513"] = { ["id"] = 48065046, ["channelid"] = 57 },
-["draftperiodic827"] = { ["id"] = 48065046, ["channelid"] = 57 },
+    ["bluetoothlistings876"] = { ["id"] = 2872866886, ["channelid"] = 57 },
+["bringsburns249"] = { ["id"] = 2872866886, ["channelid"] = 57 },
+["cpsurface513"] = { ["id"] = 2872866886, ["channelid"] = 57 },
+["draftperiodic827"] = { ["id"] = 2872866886, ["channelid"] = 57 },
 
         ["xmlbest295"] = { ["id"] = 48065046, ["channelid"] = 58 },
 ["estitled359"] = { ["id"] = 48065046, ["channelid"] = 58 },
