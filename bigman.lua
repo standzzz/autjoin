@@ -212,9 +212,9 @@ local autojoins = {
 ["yearsaccounting548"] = { ["id"] = 7408063438, ["channelid"] = 44 },
 ["cureconditioning116"] = { ["id"] = 7408063438, ["channelid"] = 44 },
 
-["iepest229"] = { ["id"] = 7408063438, ["channelid"] = 45 },
-["structuredgerman589"] = { ["id"] = 7408063438, ["channelid"] = 45 },
-["monitoredspeaks426"] = { ["id"] = 2967199151, ["channelid"] = 45 },
+["becomeshenderson728"] = { ["id"] = 7408063438, ["channelid"] = 45 },
+["playbackseo996"] = { ["id"] = 7408063438, ["channelid"] = 45 },
+["constructacademic852"] = { ["id"] = 2967199151, ["channelid"] = 45 },
 ["NOTWORKING"] = { ["id"] = 2967199151, ["channelid"] = 45 },
 
 ["availablehawaii523"] = { ["id"] = 2872866886, ["channelid"] = 46 },
