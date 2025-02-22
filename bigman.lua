@@ -279,10 +279,10 @@ local autojoins = {
 ["cpsurface513"] = { ["id"] = 2872866886, ["channelid"] = 57 },
 ["draftperiodic827"] = { ["id"] = 2872866886, ["channelid"] = 57 },
 
-        ["xmlbest295"] = { ["id"] = 48065046, ["channelid"] = 58 },
-["estitled359"] = { ["id"] = 48065046, ["channelid"] = 58 },
-["westargentina347"] = { ["id"] = 48065046, ["channelid"] = 58 },
-["dropscapabilities573"] = { ["id"] = 48065046, ["channelid"] = 58 },
+        ["xmlbest295"] = { ["id"] = 7406546950, ["channelid"] = 58 },
+["estitled359"] = { ["id"] = 7406546950, ["channelid"] = 58 },
+["westargentina347"] = { ["id"] = 7406546950, ["channelid"] = 58 },
+["dropscapabilities573"] = { ["id"] = 7406546950, ["channelid"] = 58 },
 
             ["xmlbest295"] = { ["id"] = 7983665899, ["channelid"] = 59 },
 ["estitled359"] = { ["id"] = 7983665899, ["channelid"] = 59 },
