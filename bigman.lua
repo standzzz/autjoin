@@ -156,10 +156,10 @@ local autojoins = {
      ["retireddrums121"] = { ["id"] = 48065046, ["channelid"] = 33 },
     ["sorichardson211"] = { ["id"] = 48065046, ["channelid"] = 33 },
 
-     ["rugbyportuguese457"] = { ["id"] = 48065046, ["channelid"] = 34 },
-    ["pureapollo743"] = { ["id"] = 48065046, ["channelid"] = 34 },
-     ["thinkmale904"] = { ["id"] = 48065046, ["channelid"] = 34 },
-    ["doomwindows157"] = { ["id"] = 48065046, ["channelid"] = 34 },
+     ["rugbyportuguese457"] = { ["id"] = 5710075832, ["channelid"] = 34 },
+    ["pureapollo743"] = { ["id"] = 5710075832, ["channelid"] = 34 },
+     ["thinkmale904"] = { ["id"] = 5710075832, ["channelid"] = 34 },
+    ["doomwindows157"] = { ["id"] = 5710075832, ["channelid"] = 34 },
 
     
      ["priderocket426"] = { ["id"] = 1388760963, ["channelid"] = 35 },
