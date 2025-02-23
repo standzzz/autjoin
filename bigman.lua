@@ -182,20 +182,20 @@ local autojoins = {
 ["aparrangements844"] = { ["id"] = 358931059, ["channelid"] = 38 },
 ["NOT WORKING"] = { ["id"] = 358931059, ["channelid"] = 38 },
 
-["townshipeither912"] = { ["id"] = 5348528309, ["channelid"] = 39 },
-["investorwanting355"] = { ["id"] = 5348528309, ["channelid"] = 39 },
-["timbermarshall499"] = { ["id"] = 3678157196, ["channelid"] = 39 },
-["wemin649"] = { ["id"] = 3678157196, ["channelid"] = 39 },
+["townshipeither912"] = { ["id"] = 1205092897, ["channelid"] = 39 },
+["investorwanting355"] = { ["id"] = 1205092897, ["channelid"] = 39 },
+["timbermarshall499"] = { ["id"] = 1205092897, ["channelid"] = 39 },
+["wemin649"] = { ["id"] = 1205092897, ["channelid"] = 39 },
 
 ["asfdwafsafa"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 ["dwasdavba"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 ["wafsfabaw"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 ["sfwasfabawa"] = { ["id"] = 3678157196, ["channelid"] = 40 },
 
-["ownedgeneric992"] = { ["id"] = 24113668, ["channelid"] = 41 },
-["debianbroadway529"] = { ["id"] = 24113668, ["channelid"] = 41 },
-["standingsforum271"] = { ["id"] = 7408063438, ["channelid"] = 41 },
-["convenientforced630"] = { ["id"] = 7408063438, ["channelid"] = 41 },
+["ownedgeneric992"] = { ["id"] = 140655, ["channelid"] = 41 },
+["debianbroadway529"] = { ["id"] = 140655, ["channelid"] = 41 },
+["standingsforum271"] = { ["id"] = 140655, ["channelid"] = 41 },
+["convenientforced630"] = { ["id"] = 140655, ["channelid"] = 41 },
 
 ["wasdagvaw"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 ["svabaes"] = { ["id"] = 3220444988, ["channelid"] = 42 },
