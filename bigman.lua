@@ -259,10 +259,10 @@ local autojoins = {
 ["NOT WORKING"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 ["NOT WORKING"] = { ["id"] = 7232214866, ["channelid"] = 53 },
 
-    ["participantgl243"] = { ["id"] = 3274223668, ["channelid"] = 54 },
-["trainercategory971"] = { ["id"] = 3274223668, ["channelid"] = 54 },
-["obligationed355"] = { ["id"] = 3274223668, ["channelid"] = 54 },
-["tamillenses746"] = { ["id"] = 3274223668, ["channelid"] = 54 },
+    ["abilityfwd490"] = { ["id"] = 3274223668, ["channelid"] = 54 },
+["professormirror124"] = { ["id"] = 3274223668, ["channelid"] = 54 },
+["panadditionally282"] = { ["id"] = 3274223668, ["channelid"] = 54 },
+["conban134"] = { ["id"] = 3274223668, ["channelid"] = 54 },
 
     ["barriersconsent389"] = { ["id"] = 5090522002, ["channelid"] = 55 },
 ["consultanthonest824"] = { ["id"] = 5090522002, ["channelid"] = 55 },
