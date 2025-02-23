@@ -148,13 +148,13 @@ local autojoins = {
 
      ["alwaysrotary590"] = { ["id"] = 7408063438, ["channelid"] = 32 },
     ["trustedtimer334"] = { ["id"] = 7408063438, ["channelid"] = 32 },
-     ["provisionsncaa215"] = { ["id"] = 3133705395, ["channelid"] = 32 },
-    ["notebookeditorial727"] = { ["id"] = 3133705395, ["channelid"] = 32 },
+     ["provisionsncaa215"] = { ["id"] = 7328183344, ["channelid"] = 32 },
+    ["notebookeditorial727"] = { ["id"] = 7328183344, ["channelid"] = 32 },
 
-         ["nebraskasenior560"] = { ["id"] = 3133705395, ["channelid"] = 33 },
-    ["burieddriven879"] = { ["id"] = 3133705395, ["channelid"] = 33 },
-     ["sacramentoarrived397"] = { ["id"] = 3133705395, ["channelid"] = 33 },
-    ["zincxbox159"] = { ["id"] = 3133705395, ["channelid"] = 33 },
+         ["nebraskasenior560"] = { ["id"] = 7328183344, ["channelid"] = 33 },
+    ["burieddriven879"] = { ["id"] = 7328183344, ["channelid"] = 33 },
+     ["sacramentoarrived397"] = { ["id"] = 7328183344, ["channelid"] = 33 },
+    ["zincxbox159"] = { ["id"] = 7328183344, ["channelid"] = 33 },
 
      ["luggagedistant792"] = { ["id"] = 4756084387, ["channelid"] = 34 },
     ["midnightwx494"] = { ["id"] = 4756084387, ["channelid"] = 34 },
