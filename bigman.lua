@@ -202,10 +202,10 @@ local autojoins = {
 ["wasdagvbaw"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 ["wasabaseda"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 
-["pblimit560"] = { ["id"] = 48065046, ["channelid"] = 43 },
-["niblast291"] = { ["id"] = 48065046, ["channelid"] = 43 },
-["mineralcourts123"] = { ["id"] = 48065046, ["channelid"] = 43 },
-["leadmuseums389"] = { ["id"] = 48065046, ["channelid"] = 43 },
+["pblimit560"] = { ["id"] = 4481709702, ["channelid"] = 43 },
+["niblast291"] = { ["id"] = 4481709702, ["channelid"] = 43 },
+["mineralcourts123"] = { ["id"] = 4481709702, ["channelid"] = 43 },
+["leadmuseums389"] = { ["id"] = 4481709702, ["channelid"] = 43 },
 
 ["lafayettecatalogs385"] = { ["id"] = 48065046, ["channelid"] = 44 },
 ["johncharleston917"] = { ["id"] = 48065046, ["channelid"] = 44 },
