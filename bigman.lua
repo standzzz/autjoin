@@ -242,8 +242,8 @@ local autojoins = {
 ["fantasticons228"] = { ["id"] = 140655, ["channelid"] = 50 },
 ["halfdistance266"] = { ["id"] = 140655, ["channelid"] = 50 },
 
-["bmto276"] = { ["id"] = 358931059, ["channelid"] = 51 },
-["affairsmoments525"] = { ["id"] = 358931059, ["channelid"] = 51 },
+["hongprovides609"] = { ["id"] = 3342805365, ["channelid"] = 51 },
+["holytaylor371"] = { ["id"] = 3342805365, ["channelid"] = 51 },
 ["elvismachine604"] = { ["id"] = 358931059, ["channelid"] = 51 },
 ["especiallylonely506"] = { ["id"] = 358931059, ["channelid"] = 51 },
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 7411906033, ["channelid"] = 52 },
