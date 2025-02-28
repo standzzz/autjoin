@@ -279,10 +279,10 @@ local autojoins = {
 ["jpmovers840"] = { ["id"] = 2872866886, ["channelid"] = 57 },
 ["ownershipinns542"] = { ["id"] = 2872866886, ["channelid"] = 57 },
 
-        ["pathsauditor606"] = { ["id"] = 2816918669, ["channelid"] = 58 },
-["flatcharitable660"] = { ["id"] = 2816918669, ["channelid"] = 58 },
-["dnabegin414"] = { ["id"] = 413309, ["channelid"] = 58 },
-["anywaysetting226"] = { ["id"] = 413309, ["channelid"] = 58 },
+        ["pathsauditor606"] = { ["id"] = 48065046, ["channelid"] = 58 },
+["flatcharitable660"] = { ["id"] = 48065046, ["channelid"] = 58 },
+["dnabegin414"] = { ["id"] = 48065046, ["channelid"] = 58 },
+["anywaysetting226"] = { ["id"] = 48065046, ["channelid"] = 58 },
 
             ["joinsconservation676"] = { ["id"] = 48065046, ["channelid"] = 59 },
 ["wninternationally893"] = { ["id"] = 48065046, ["channelid"] = 59 },
