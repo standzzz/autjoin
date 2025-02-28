@@ -217,15 +217,15 @@ local autojoins = {
 ["guestlatvia296"] = { ["id"] = 7411123055, ["channelid"] = 45 },
 ["NOTWORKING"] = { ["id"] = 7411123055, ["channelid"] = 45 },
 
-["hospitalityfield753"] = { ["id"] = 1205092897, ["channelid"] = 46 },
-["phicitizen304"] = { ["id"] = 1205092897, ["channelid"] = 46 },
-["dayfo456"] = { ["id"] = 1205092897, ["channelid"] = 46 },
-["astronomycasual579"] = { ["id"] = 358931059, ["channelid"] = 46 },
+["ShowyCar7437"] = { ["id"] = 48065046, ["channelid"] = 46 },
+["ElijahBane67"] = { ["id"] = 48065046, ["channelid"] = 46 },
+["TrainedBillboard6217"] = { ["id"] = 48065046, ["channelid"] = 46 },
+["Inf3rn0Crystal16"] = { ["id"] = 48065046, ["channelid"] = 46 },
 
-["NOTWORKING"] = { ["id"] = 140655, ["channelid"] = 47 },
-["NOTWORKING"] = { ["id"] = 140655, ["channelid"] = 47 },
-["NOTWORKING"] = { ["id"] = 7998224735, ["channelid"] = 47 },
-["NOTWORKING"] = { ["id"] = 7998224735, ["channelid"] = 47 },
+["UnfitDischarge4292"] = { ["id"] = 7408063438, ["channelid"] = 47 },
+["BrokenBanyan3688"] = { ["id"] = 7408063438, ["channelid"] = 47 },
+["LameAftershave5003"] = { ["id"] = 7408063438, ["channelid"] = 47 },
+["mungliana"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 
 ["geographydemo984"] = { ["id"] = 140655, ["channelid"] = 48 },
 ["hornsoil660"] = { ["id"] = 140655, ["channelid"] = 48     },
