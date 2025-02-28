@@ -284,15 +284,15 @@ local autojoins = {
 ["dnabegin414"] = { ["id"] = 413309, ["channelid"] = 58 },
 ["anywaysetting226"] = { ["id"] = 413309, ["channelid"] = 58 },
 
-            ["joinsconservation676"] = { ["id"] = 413309, ["channelid"] = 59 },
-["wninternationally893"] = { ["id"] = 413309, ["channelid"] = 59 },
-["componentseddie409"] = { ["id"] = 413309, ["channelid"] = 59 },
-["overantivirus491"] = { ["id"] = 413309, ["channelid"] = 59 },
+            ["joinsconservation676"] = { ["id"] = 48065046, ["channelid"] = 59 },
+["wninternationally893"] = { ["id"] = 48065046, ["channelid"] = 59 },
+["componentseddie409"] = { ["id"] = 48065046, ["channelid"] = 59 },
+["overantivirus491"] = { ["id"] = 48065046, ["channelid"] = 59 },
 
-            ["occursrank165"] = { ["id"] = 5710075832, ["channelid"] = 60 },
-["officethat413"] = { ["id"] = 5710075832, ["channelid"] = 60 },
-["unlikelyln516"] = { ["id"] = 5710075832, ["channelid"] = 60 },
-["appealsheater470"] = { ["id"] = 5710075832, ["channelid"] = 60 },
+            ["occursrank165"] = { ["id"] = 48065046, ["channelid"] = 60 },
+["officethat413"] = { ["id"] = 48065046, ["channelid"] = 60 },
+["unlikelyln516"] = { ["id"] = 48065046, ["channelid"] = 60 },
+["appealsheater470"] = { ["id"] = 48065046, ["channelid"] = 60 },
 
             ["harpermailto663"] = { ["id"] = 7965123791, ["channelid"] = 61 },
 ["outcomewinner378"] = { ["id"] = 7965123791, ["channelid"] = 61 },
