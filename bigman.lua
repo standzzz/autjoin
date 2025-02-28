@@ -264,15 +264,15 @@ local autojoins = {
 ["intranetcustomers255"] = { ["id"] = 4756084387, ["channelid"] = 54 },
 ["transitioninquire173"] = { ["id"] = 4756084387, ["channelid"] = 54 },
 
-    ["minimizeheadlines153"] = { ["id"] = 5090522002, ["channelid"] = 55 },
-["hospitalssacred235"] = { ["id"] = 5090522002, ["channelid"] = 55 },
-["greatlytold283"] = { ["id"] = 5090522002, ["channelid"] = 55 },
-["phoneconnections613"] = { ["id"] = 5090522002, ["channelid"] = 55 },
+    ["minimizeheadlines153"] = { ["id"] = 63578, ["channelid"] = 55 },
+["hospitalssacred235"] = { ["id"] = 63578, ["channelid"] = 55 },
+["greatlytold283"] = { ["id"] = 63578, ["channelid"] = 55 },
+["phoneconnections613"] = { ["id"] = 63578, ["channelid"] = 55 },
 
-    ["bacondemocracy550"] = { ["id"] = 2816918669, ["channelid"] = 56 },
-["addressingdiffer452"] = { ["id"] = 2816918669, ["channelid"] = 56 },
-["convertibleget987"] = { ["id"] = 2816918669, ["channelid"] = 56 },
-["eurreports101"] = { ["id"] = 2816918669, ["channelid"] = 56 },
+    ["bacondemocracy550"] = { ["id"] = 63578, ["channelid"] = 56 },
+["addressingdiffer452"] = { ["id"] = 63578, ["channelid"] = 56 },
+["convertibleget987"] = { ["id"] = 63578, ["channelid"] = 56 },
+["eurreports101"] = { ["id"] = 63578, ["channelid"] = 56 },
 
     ["ohiohereby516"] = { ["id"] = 2872866886, ["channelid"] = 57 },
 ["minoltalap232"] = { ["id"] = 2872866886, ["channelid"] = 57 },
