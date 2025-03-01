@@ -202,10 +202,10 @@ local autojoins = {
 ["wasdagvbaw"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 ["wasabaseda"] = { ["id"] = 3220444988, ["channelid"] = 42 },
 
-["pstdisposal366"] = { ["id"] = 63578, ["channelid"] = 43 },
-["thatsmailing921"] = { ["id"] = 63578, ["channelid"] = 43 },
-["parcelfolders481"] = { ["id"] = 63578, ["channelid"] = 43 },
-["repositoryallan790"] = { ["id"] = 63578, ["channelid"] = 43 },
+["pstdisposal366"] = { ["id"] = 140655, ["channelid"] = 43 },
+["thatsmailing921"] = { ["id"] = 140655, ["channelid"] = 43 },
+["parcelfolders481"] = { ["id"] = 140655, ["channelid"] = 43 },
+["repositoryallan790"] = { ["id"] = 140655, ["channelid"] = 43 },
 
 ["murrayautomation272"] = { ["id"] = 63578, ["channelid"] = 44 },
 ["seekremote368"] = { ["id"] = 63578, ["channelid"] = 44 },
