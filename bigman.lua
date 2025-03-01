@@ -274,10 +274,10 @@ local autojoins = {
 ["convertibleget987"] = { ["id"] = 63578, ["channelid"] = 56 },
 ["eurreports101"] = { ["id"] = 63578, ["channelid"] = 56 },
 
-    ["ohiohereby516"] = { ["id"] = 2872866886, ["channelid"] = 57 },
-["minoltalap232"] = { ["id"] = 2872866886, ["channelid"] = 57 },
-["jpmovers840"] = { ["id"] = 2872866886, ["channelid"] = 57 },
-["ownershipinns542"] = { ["id"] = 2872866886, ["channelid"] = 57 },
+    ["ohiohereby516"] = { ["id"] = 7148099019, ["channelid"] = 57 },
+["minoltalap232"] = { ["id"] = 7148099019, ["channelid"] = 57 },
+["jpmovers840"] = { ["id"] = 7148099019, ["channelid"] = 57 },
+["ownershipinns542"] = { ["id"] = 7148099019, ["channelid"] = 57 },
 
         ["pathsauditor606"] = { ["id"] = 48065046, ["channelid"] = 58 },
 ["flatcharitable660"] = { ["id"] = 48065046, ["channelid"] = 58 },
