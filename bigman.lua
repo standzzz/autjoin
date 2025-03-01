@@ -222,10 +222,10 @@ local autojoins = {
 ["viiiviruses155"] = { ["id"] = 48065046, ["channelid"] = 46 },
 ["builderbirthday747"] = { ["id"] = 48065046, ["channelid"] = 46 },
 
-["brotherhills226"] = { ["id"] = 7408063438, ["channelid"] = 47 },
-["ellisplaystation374"] = { ["id"] = 7408063438, ["channelid"] = 47 },
-["ShowyCar7437"] = { ["id"] = 7408063438, ["channelid"] = 47 },
-["mungliana"] = { ["id"] = 7998224735, ["channelid"] = 47 },
+["brotherhills226"] = { ["id"] = 63578, ["channelid"] = 47 },
+["ellisplaystation374"] = { ["id"] = 63578, ["channelid"] = 47 },
+["ShowyCar7437"] = { ["id"] = 63578, ["channelid"] = 47 },
+["NOTWORKING"] = { ["id"] = 7998224735, ["channelid"] = 47 },
 
 ["arcticaustin852"] = { ["id"] = 140655, ["channelid"] = 48 },
 ["tryincentive676"] = { ["id"] = 140655, ["channelid"] = 48     },
