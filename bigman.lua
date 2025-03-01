@@ -249,15 +249,15 @@ local autojoins = {
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 7411906033, ["channelid"] = 52 },
     ["GIVE BOTTOM 2 ON 16/02"] = { ["id"] = 94328598, ["channelid"] = 52 },
 
-["minsagencies848"] = { ["id"] = 1984598133, ["channelid"] = 52 },
-["adultskeyword982"] = { ["id"] = 1984598133, ["channelid"] = 52 },
-["hiredindoor496"] = { ["id"] = 1984598133, ["channelid"] = 52 },
-["compilationink208"] = { ["id"] = 1984598133, ["channelid"] = 52 },
+["minsagencies848"] = { ["id"] = 63578, ["channelid"] = 52 },
+["adultskeyword982"] = { ["id"] = 63578, ["channelid"] = 52 },
+["hiredindoor496"] = { ["id"] = 63578, ["channelid"] = 52 },
+["compilationink208"] = { ["id"] = 63578, ["channelid"] = 52 },
 
-["hireddisposition890"] = { ["id"] = 1984598133, ["channelid"] = 53 },
-["emaildealer460"] = { ["id"] = 1984598133, ["channelid"] = 53 },
-["includesshaft151"] = { ["id"] = 1984598133, ["channelid"] = 53 },
-["kimbreeds229"] = { ["id"] = 1984598133, ["channelid"] = 53 },
+["hireddisposition890"] = { ["id"] = 63578, ["channelid"] = 53 },
+["emaildealer460"] = { ["id"] = 63578, ["channelid"] = 53 },
+["includesshaft151"] = { ["id"] = 63578, ["channelid"] = 53 },
+["kimbreeds229"] = { ["id"] = 63578, ["channelid"] = 53 },
 
     ["libwhats321"] = { ["id"] = 1984598133, ["channelid"] = 54 },
 ["zshopsapple136"] = { ["id"] = 1984598133, ["channelid"] = 54 },
