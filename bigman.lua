@@ -213,9 +213,9 @@ local autojoins = {
 ["furnishedsurveys199"] = { ["id"] = 63578, ["channelid"] = 44 },
 
 ["consultanthunting934"] = { ["id"] = 63578, ["channelid"] = 45 },
-["ovennewspapers232"] = { ["id"] = 7411123055, ["channelid"] = 45 },
-["statutescabinets822"] = { ["id"] = 7411123055, ["channelid"] = 45 },
-["headerhopes293"] = { ["id"] = 7411123055, ["channelid"] = 45 },
+["ovennewspapers232"] = { ["id"] = 63578, ["channelid"] = 45 },
+["statutescabinets822"] = { ["id"] = 63578, ["channelid"] = 45 },
+["headerhopes293"] = { ["id"] = 63578, ["channelid"] = 45 },
 
 ["physicianride139"] = { ["id"] = 48065046, ["channelid"] = 46 },
 ["circusimaging468"] = { ["id"] = 48065046, ["channelid"] = 46 },
