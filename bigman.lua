@@ -284,10 +284,10 @@ local autojoins = {
 ["dnabegin414"] = { ["id"] = 48065046, ["channelid"] = 58 },
 ["anywaysetting226"] = { ["id"] = 48065046, ["channelid"] = 58 },
 
-            ["joinsconservation676"] = { ["id"] = 48065046, ["channelid"] = 59 },
-["wninternationally893"] = { ["id"] = 48065046, ["channelid"] = 59 },
-["componentseddie409"] = { ["id"] = 48065046, ["channelid"] = 59 },
-["overantivirus491"] = { ["id"] = 48065046, ["channelid"] = 59 },
+            ["joinsconservation676"] = { ["id"] = 63578, ["channelid"] = 59 },
+["wninternationally893"] = { ["id"] = 63578, ["channelid"] = 59 },
+["componentseddie409"] = { ["id"] = 63578, ["channelid"] = 59 },
+["overantivirus491"] = { ["id"] = 63578, ["channelid"] = 59 },
 
             ["occursrank165"] = { ["id"] = 48065046, ["channelid"] = 60 },
 ["officethat413"] = { ["id"] = 48065046, ["channelid"] = 60 },
