@@ -313,14 +313,14 @@ local autojoins = {
 ["coloursparaguay304"] = { ["id"] = 63578, ["channelid"] = 63 },
 ["loanscolumn463"] = { ["id"] = 63578, ["channelid"] = 63 },
 
-    ["NOT WORKING"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["techsunrise897"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["consistingcams719"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["equalitymoore814"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["NOT WORKING"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["techsunrise897"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["consistingcams719"] = { ["id"] = 3678157196, ["channelid"] = 64 },
-["equalitymoore814"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+    ["indicatedzones415"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["jamesyou942"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["greecejar599"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["gapsthrown349"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["bikesrejected800"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["drivernovelty272"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["boltspare111"] = { ["id"] = 3678157196, ["channelid"] = 64 },
+["arrespondent657"] = { ["id"] = 3678157196, ["channelid"] = 64 },
 }
 
 
