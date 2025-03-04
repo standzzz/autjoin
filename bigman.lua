@@ -321,6 +321,14 @@ local autojoins = {
 ["drivernovelty272"] = { ["id"] = 63578, ["channelid"] = 64 },
 ["boltspare111"] = { ["id"] = 63578, ["channelid"] = 64 },
 ["arrespondent657"] = { ["id"] = 63578, ["channelid"] = 64 },
+
+["SamuelStormyGalaxy73"] = { ["id"] = 943650501, ["channelid"] = 63 },
+["MasonCircuitFire"] = { ["id"] = 943650501, ["channelid"] = 63 },
+["MellowStore4793"] = { ["id"] = 943650501, ["channelid"] = 63 },
+["Max_Hawk202082"] = { ["id"] = 943650501, ["channelid"] = 63 },
+["FavorablePretzel7013"] = { ["id"] = 943650501, ["channelid"] = 63 },
+["Olivia_Sparkly"] = { ["id"] = 943650501, ["channelid"] = 63 },
+
 }
 
 
