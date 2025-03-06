@@ -294,15 +294,15 @@ local autojoins = {
 ["unlikelyln516"] = { ["id"] = 48065046, ["channelid"] = 60 },
 ["appealsheater470"] = { ["id"] = 48065046, ["channelid"] = 60 },
 
-            ["ircretailer508"] = { ["id"] = 7965123791, ["channelid"] = 61 },
-["jdthinkpad799"] = { ["id"] = 7965123791, ["channelid"] = 61 },
-["queriesbrutal442"] = { ["id"] = 3678157196, ["channelid"] = 61 },
-["globalips764"] = { ["id"] = 3678157196, ["channelid"] = 61 },
+            ["ircretailer508"] = { ["id"] = 7148099019, ["channelid"] = 61 },
+["jdthinkpad799"] = { ["id"] = 7148099019, ["channelid"] = 61 },
+["queriesbrutal442"] = { ["id"] = 7148099019, ["channelid"] = 61 },
+["globalips764"] = { ["id"] = 7148099019, ["channelid"] = 61 },
 
-            ["raidcopied986"] = { ["id"] = 3678157196, ["channelid"] = 62 },
-["grouparm781"] = { ["id"] = 3678157196, ["channelid"] = 62 },
-["skilledarchive195"] = { ["id"] = 3678157196, ["channelid"] = 62 },
-["veterinaryphases834"] = { ["id"] = 3678157196, ["channelid"] = 62 },
+            ["raidcopied986"] = { ["id"] = 1984598133, ["channelid"] = 62 },
+["grouparm781"] = { ["id"] = 1984598133, ["channelid"] = 62 },
+["skilledarchive195"] = { ["id"] = 1984598133, ["channelid"] = 62 },
+["veterinaryphases834"] = { ["id"] = 1984598133, ["channelid"] = 62 },
 
     ["findersenegal901"] = { ["id"] = 63578, ["channelid"] = 63 },
 ["collectablesdk130"] = { ["id"] = 63578, ["channelid"] = 63 },
