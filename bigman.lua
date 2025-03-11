@@ -299,10 +299,10 @@ local autojoins = {
 ["lloydgg974"] = { ["id"] = 140655, ["channelid"] = 61 },
 ["fluxlab243"] = { ["id"] = 140655, ["channelid"] = 61 },
 
-            ["handheldpuppy451"] = { ["id"] = 63578, ["channelid"] = 62 },
-["materialslimiting241"] = { ["id"] = 63578, ["channelid"] = 62 },
-["circlesgale191"] = { ["id"] = 63578, ["channelid"] = 62 },
-["loneposts771"] = { ["id"] = 63578, ["channelid"] = 62 },
+            ["stealchapter440"] = { ["id"] = 7148099019, ["channelid"] = 62 },
+["indianamono745"] = { ["id"] = 7148099019, ["channelid"] = 62 },
+["romodern622"] = { ["id"] = 7148099019, ["channelid"] = 62 },
+["fleetmodeling307"] = { ["id"] = 7148099019, ["channelid"] = 62 },
 
     ["heldbobby251"] = { ["id"] = 63578, ["channelid"] = 63 },
 ["nutoward836"] = { ["id"] = 63578, ["channelid"] = 63 },
